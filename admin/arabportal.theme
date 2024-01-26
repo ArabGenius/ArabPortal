@@ -1,0 +1,3442 @@
+portal<=>1<=>portal<=>.nav{
+    font-family: arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: Gray; 
+    align: right;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    background-image: url(images/r.gif); background-repeat: no-repeat; background-position: right top;
+    border-bottom: 1px solid #C2C2C2;
+}
+.normal {font-family: arial;
+    font-size: 16px;
+    font-weight: bold;
+}
+.lettercell
+{
+background-color: #EEEEEE;
+font-family: Tahoma;
+font-size: 12 pt;
+text-align: center;
+color: #505050
+display: block;
+border: 1px #999999 solid;
+width: 15px ;
+
+
+}
+
+.letter_table {
+border-collapse: collapse;
+text-align: right;
+}
+.orang_b     { font-family:Bold 16px Arial;
+               color: #FFFFFF; 
+                background-color: #EE753A; 
+                    padding:3;
+                    margin-left:3px;
+
+
+                    
+                    }
+.info_bar    { font-family: Tahoma; font-size: 10pt; color: #808080; background-color:
+               #EBEBEB }
+.normal_dark_link{ font-family: Arial; font-size: 12pt; color: #FFFFFF; font-weight: bold ;text-decoration:none;
+
+padding-top: 3; padding-bottom: 3
+}
+
+.normal_dark_link2{ font-family: Arial; font-size: 12pt; color: #FFFFFF; font-""weight: bold ;text-decoration: none;
+ background-color: #34597D; 
+padding-top: 3; padding-bottom: 3
+}
+
+BODY {
+    FONT-FAMILY: #Arial, Helvetica;
+    FONT-SIZE : 13px;
+    weight: bold;
+    COLOR : #3A3A3A;
+ TEXT-DECORATION : none
+    }
+
+A:link      {
+    COLOR : #000000;
+    TEXT-DECORATION : none
+    }
+A:visited   {
+COLOR : #000000;
+    TEXT-DECORATION : none
+    }
+A:hover     {
+    COLOR : #cc3300;
+TEXT-DECORATION : none
+    }
+A:active    {
+COLOR : #000000;
+    TEXT-DECORATION : none;
+    }
+
+H1 { font-family: 'impact, arial';
+        font-size: 20pt;
+        color:  #3A3A3A;
+        BACKGROUND-COLOR : #34597D
+}
+
+.fontht{
+    font-size: 13px;
+    font-family: Arial, Helvetica;
+    color: #3A3A3A;
+    font-weight: bold;
+    }
+.fontablt     {
+    font-family: tahoma;
+    font-size: 10 pt;
+     color: #505050
+    }
+SELECT {
+    font-size: 12px Tahoma;
+    background-color: #EBEBEB;
+    color: #666666;
+}
+TEXTAREA {
+FONT-FAMILY: Tahoma, MS Sans Serif, ;
+FONT-SIZE: 12px;
+border: 1px #cccccc solid;
+
+}
+.text_box{
+    font:12px tahoma;
+ border: 1px #cccccc solid;
+}
+
+.button{
+  font:12px tahoma;
+   background-color: #FFF;
+    border: 1px #cccccc solid;
+}
+
+.small{
+    font:13px tahoma;
+    color: #081440;
+
+}
+
+.small1{
+    font:13px tahoma;
+    color: #ffffff;
+
+}
+.table_main {
+   border: 1px #000000 solid;
+    background-color: #F1F1F1;
+    border-collapse: collapse;
+    bordercolor="#111111";
+    width="100%" ;
+}
+
+.forum_table_main {
+   border: 1px #000000 solid;
+    background-color: #F1F1F1;
+    border-collapse: collapse;
+    bordercolor="#111111";
+    width="90%" ;
+}
+
+.td_top_cat {
+   background-color: #B0CCB0;
+   font-size: 10 pt;
+   font-family: tahoma;
+   color: 000000;
+font-weight: bold;
+
+   }
+
+.catlinkfont {
+   font-size: 16 px;
+   font-family: arial;
+   color: 000000;
+
+   }
+.td_bottom_cat {
+   background-color: #FFFFFF;
+   font-family: Arial, Helvetica;
+   font-size: 9 pt;
+   color: 000000
+}
+.td_top_list
+{
+    background: #34597D;
+    border:0px;  
+    vertical-align:top;
+    font-size: 12 pt;
+ font-family: Arial, Helvetica;
+    color: #3A3A3A;
+    font-weight: bold;
+     color: #FFF;
+
+    
+}
+.td_middle_list
+{
+    text-align:right ;
+    vertical-align:top;
+   font-family: tahoma;
+   font-size: 10 pt;
+   color: 000000
+
+}
+.td_middle_list2
+{
+     background-color: E0E9E2;
+    text-align:right ;
+    vertical-align:top;
+   font-family: tahoma;
+   font-size: 10 pt;
+   color: 000000
+}
+.bgcolor1{
+ background-color: #FFFFFF ;
+}
+.bgcolor2{
+ background-color: #FFFFFF ;
+}
+.bgcolor3{
+ background-color: #34597D;
+}
+.bgcolor4{
+ background-color: #FFFFFF ;
+}
+
+.forum_control_bar{
+    background: #EEEEEE;
+    border-bottom: solid 1px #C1C1C1;
+    border-top: solid 1px #FFF;
+    font: 12px tahoma;
+}
+.small_dark_link{
+    font-family: tahoma; font-size: 12px; color: #FFFFFF; text-decoration: none;
+background-color: #34597D; 
+padding-top: 3; padding-bottom: 3;padding-left: 3;
+}
+.forum_header{
+    font:bold 12pt arial;
+    text-align: center;
+    background-image: url(../../themes/portal/catbg2.gif);
+    background-repeat: repeat-x;
+    color: #ffffff;
+    padding: 3px;
+}
+
+.forum_header2{
+    font:bold 12pt arial;
+    text-align: center;
+    background-image: url(../../themes/portal/apt_23.gif);
+    background-repeat: repeat-x;
+    color: #ffffff;
+    padding: 3px;
+}
+
+.forum_alt1{
+    font:bold 12pt arial;
+    color: #02395E;
+    background: #F8F8F8;
+    padding: 0px;
+}
+
+.forum_alt2{
+    font-size: 16 pt;
+    font-family: Arial, Helvetica;
+    color: #34597D;
+    font-weight: bold;
+    }
+
+
+.forum_alt3{
+    font:bold 12pt arial;
+    color: #34597D;
+    background: #ffffff;
+    padding: 0px;
+    border-bottom: solid 3px #8CA7C3;
+    border-left: solid 1px #8CA7C3;
+    border-right: solid 1px #8CA7C3;
+    border-top: solid 1px #8CA7C3;
+}
+
+.forum_alt4{
+    font:bold 12pt arial;
+    text-align: right;
+    color: #00225E;
+}
+
+.news_cat_title {
+	background: url(themes/portal/cat_bg.gif) repeat-x bottom;
+	width: 100%;
+	height: 26px;
+	text-align: center;
+}
+.news_cat_title img {
+	margin-left: -3px;
+	margin-right: -4px;
+}
+.news_cat_title a {
+	height: 26px;
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	color: #7C1D09;
+	text-decoration: none;
+	padding-top: 4px;
+}
+.news_cat_title a:hover {
+	color: #D2691E;
+}
+
+.news_title {
+	padding-right: 14px;
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: right;
+	color: #8B0000;
+	background-image: url(themes/portal/news_icon.gif);
+	background-position: right;
+	background-repeat: no-repeat;
+	clear: both;
+}
+.news_title a {
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	color: #A52A2A;
+	text-align: right;
+	text-decoration: none;
+}
+.news_title a:hover {
+	color: #D2691E;
+	text-align: right;
+}
+
+.article_info
+{
+	background-image: url(themes/portal/info.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+	color: #516A93;
+	font-family: Tahoma;
+	font-size: 11px;
+	display: block;
+	padding: 2px 13px 2px 3px;
+	margin-bottom: 2px;
+}
+.article_info a {
+	color: #A0522D;
+	text-decoration: none;
+}
+.article_pic {
+	border: 1px solid #CCCCCC;
+	padding: 3px 3px 3px 3px;
+	margin: 3px 2px 1px 2px;
+	background-color: White;
+	display: inline;
+}
+.home_text {
+	font: 12px Tahoma;
+	color: #505050;
+	text-align: justify;
+}
+.side_menu_head{
+    font-family: Tahoma;
+    font-size: 12px;
+    color: #000000;
+    padding: 3px;
+}
+.side_menu_center{
+    font-family: Tahoma;
+    font-size: 10 pt;
+    text-align: right;
+     color: #505050
+}
+.side_menu_center a {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #505050;
+	text-align: right;
+	text-decoration: none;
+}
+.side_menu_center a:hover {
+	color: #D2691E;
+}<=><body background="themes/$apt->themepath/background.gif" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
+
+<div align="center">
+	<table border="0" width="$themewidth" id="table2" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="100%">
+			<div align="center">
+				<table border="0" cellpadding="0" style="border-collapse: collapse">
+					<tr>
+						<td width="18">
+						<img border="0" src="themes/$apt->themepath/arabportal_06.gif"></td>
+						<td background="themes/$apt->themepath/arabportal_03.gif">
+						<map name="FPMap0">
+						<area href="index.php" shape="rect" coords="477, 3, 537, 29">
+						<area href="forum.php" shape="rect" coords="412, 3, 470, 29">
+						<area href="news.php" shape="rect" coords="351, 2, 406, 29">
+						<area href="download.php" shape="rect" coords="260, 1, 342, 29">
+						<area href="link.php" shape="rect" coords="165, 1, 250, 29">
+						<area href="guestbook.php" shape="rect" coords="83, 2, 160, 29">
+						<area href="mail.php" shape="rect" coords="6, 2, 75, 29">
+						</map>
+						<img border="0" src="themes/$apt->themepath/arabportal_04.gif" usemap="#FPMap0"></td>
+						<td background="themes/$apt->themepath/arabportal_03.gif">
+						</td>
+						<td background="themes/$apt->themepath/arabportal_03.gif" width="100%">
+						<a href="index.php?action=rss">
+						<img border="0" src="themes/$apt->themepath/arabportal_02.gif" align="left"></a></td>
+						<td width="16">
+						<img border="0" src="themes/$apt->themepath/arabportal_01.gif" width="77" height="30"></td>
+					</tr>
+
+				</table>
+			</div>
+			</td>
+		</tr>
+	</table>
+</div>
+<center>
+<table border="0" width="$themewidth" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="47">
+		<img border="0" src="themes/$apt->themepath/arabportal_12.gif" ></td>
+		<td width="284">
+		<img border="0" src="themes/$apt->themepath/arabportal_11.gif" ></td>
+		<td background="themes/$apt->themepath/arabportal_10.gif" width="100%"> </td>
+		<td>
+		<img border="0" src="themes/$apt->themepath/arabportal_08.gif" ></td>
+		<td>
+		<img border="0" src="themes/$apt->themepath/arabportal_07.gif" ></td>
+	</tr>
+</table>
+
+</center><=><!-- Footer Start -->
+
+<div align="center">
+	<table border="0" cellpadding="0" style="border-collapse: collapse" width="$themewidth">
+		<tr>
+			<td width="18">
+			<img border="0" src="themes/$apt->themepath/arabportal_20.gif" width="18" height="20"></td>
+			<td width="4%" align="center" style="color: #3F81A1; font-family: Tahoma; font-size: 10pt">
+			<img border="0" src="themes/$apt->themepath/footer_right.gif"></td>
+			<td background="themes/$apt->themepath/f_midd.gif" width="100%" align="center" style="color: #3F81A1; font-family: Tahoma; font-size: 10pt">
+			</td>
+			<td background="themes/$apt->themepath/footer_03.jpg" width="2%" align="center" style="color: #3F81A1; font-family: Tahoma; font-size: 10pt">
+			<img border="0" src="themes/$apt->themepath/footer_left.gif"></td>
+			<td width="19">
+			<img border="0" src="themes/$apt->themepath/arabportal_16.gif" width="19" height="20"></td>
+		</tr>
+	</table>
+</div>
+<center>
+<table border="0" cellpadding="0" width="$themewidth" id="table2" style="border-collapse: collapse">
+	<tr>
+		<td background="themes/$apt->themepath/mm_space.gif">
+		<img border="0" src="themes/$apt->themepath/mm_space.gif" width="8" height="6"></td>
+		<td background="themes/$apt->themepath/mm_space.gif" width="100%" align="center" style="color: #3F81A1; font-family: Tahoma; font-size: 10pt">
+		<img border="0" src="themes/$apt->themepath/mm_space.gif" width="8" height="6"></td>
+		<td background="themes/$apt->themepath/mm_space.gif">
+		<img border="0" src="themes/$apt->themepath/mm_space.gif" width="8" height="6"></td>
+	</tr>
+	<tr>
+		<td background="themes/$apt->themepath/arabportal_20.gif">
+		<img border="0" src="themes/$apt->themepath/arabportal_20.gif" width="18" height="20"></td>
+		<td width="100%" align="center" style="color: #3F81A1; font-family: Tahoma; font-size: 10pt">
+		<div align="center">
+			<table border="0" cellpadding="0" style="border-collapse: collapse">
+				<tr>
+					<td width="20" background="themes/$apt->themepath/ft_bt_02.gif">
+					<img border="0" src="themes/$apt->themepath/ft_bt_04.gif"></td>
+					<td width="4" background="themes/$apt->themepath/ft_bt_02.gif"> 
+					<img border="0" src="themes/$apt->themepath/verline.gif" width="1" height="50"></td>
+					<td width="9" background="themes/$apt->themepath/ft_bt_02.gif">
+					<a target="_blank" href="http://www.rowafid.com">
+					<img border="0" src="themes/$apt->themepath/rowafid.gif" width="29" height="68"></a></td>
+					<td width="20" background="themes/$apt->themepath/ft_bt_02.gif">
+					<img border="0" src="themes/$apt->themepath/ft_bt_02.gif" width="32" height="68"></td>
+					<td width="20" background="themes/$apt->themepath/ft_bt_02.gif">
+$chs_theme
+</td>
+					<td background="themes/$apt->themepath/ft_bt_02.gif" width="100%">
+				<div align="center">
+						<table border="0" style="border-collapse: collapse" cellspacing="3">
+							<tr>
+								<td>
+								<p align="center">	
+								<font face="Tahoma" style="font-size: ta" size="1" color="#800000">
+								<span lang="ar-iq"><a href="index.php">
+								<span style="text-decoration: none">
+								<font color="#000055">«·’›Õ… «·√Ê·Ï</font></span></a></span></font><font face="Tahoma" style="font-size: ta" size="1" color="#000055">
+								</font><span lang="ar-iq">
+								<font face="Tahoma" style="font-size: ta" size="1" color="#000055">
+								| </font>
+								<font face="Tahoma" style="font-size: ta" size="1" color="#800000">
+								<a href="news.php">
+								<span style="text-decoration: none">
+								<font color="#000055">«·√Œ»«—</font></span></a></font></span><font face="Tahoma" style="font-size: ta" size="1" color="#800000"><font face="Tahoma" style="font-size: ta" size="1" color="#000055">
+								</font><span lang="ar-iq">
+								<font face="Tahoma" style="font-size: ta" size="1" color="#000055">
+								| </font><a href="download.php">
+								<span style="text-decoration: none">
+								<font color="#000055">„—ﬂ“ «· Õ„Ì·</font></span></a></span><font face="Tahoma" style="font-size: ta" size="1" color="#000055">
+								</font><span lang="ar-iq">
+								<font face="Tahoma" style="font-size: ta" size="1" color="#000055">
+								| </font><a href="link.php">
+								<span style="text-decoration: none">
+								<font color="#000055">œ·Ì· «·„Ê«ﬁ⁄</font></span></a><font face="Tahoma" style="font-size: ta" size="1" color="#000055"> 
+								| </font><a href="forum.php">
+								<span style="text-decoration: none">
+								<font color="#000055">«·„‰ œÏ</font></span></a></span><font face="Tahoma" style="font-size: ta" size="1" color="#000055">
+								</font><span lang="ar-iq">
+								<font face="Tahoma" style="font-size: ta" size="1" color="#000055">
+								| </font><a href="guestbook.php">
+								<span style="text-decoration: none">
+								<font color="#000055">”Ã· «·“Ê«—</font></span></a><font face="Tahoma" style="font-size: ta" size="1" color="#000055"> 
+								| </font><a href="mail.php">
+								<span style="text-decoration: none">
+								<font color="#000055">—«”·‰‹‹«</font></span></a></span></font></p>
+								</td>
+							</tr>
+							<tr>
+								<td>
+								<div align="center">
+									<table border="0" cellpadding="0" style="border-collapse: collapse" width="365" height="32">
+										<tr>
+											<td background="themes/$apt->themepath/copyright.gif">
+											<p align="center" dir="ltr">
+											<font color="#000055" face="Verdana" size="2">
+											Copyright© 2009</font><font face="Verdana" size="2" color="#000055">
+											<img border="0" src="themes/portal/logo.gif">
+											</font>
+											<font face="Verdana" size="2">
+											<font face="Verdana" size="2" color="#000055">
+											»≈” Œœ«„</font>
+											<a target="_blank" class="footer_link" href="http://www.arabportal.info">
+											<font color="#800000">»—‰«„Ã «·»Ê«»… 
+											«·⁄—»Ì… </font></a>
+											<font color="#800000">2.2</font></font></p>
+											</td>
+										</tr>
+									</table>
+								</div>
+								</td>
+							</tr>
+						</table>
+					</div>
+					</td>
+						<td width="20" background="themes/$apt->themepath/ft_bt_02.gif">
+					<img border="0" src="themes/$apt->themepath/ft_bt_02.gif" width="150" height="68"></td>
+					
+					<td width="2" background="themes/$apt->themepath/ft_bt_02.gif">
+	
+				<a href="#top">
+					<img border="0" src="themes/$apt->themepath/top.gif" width="24" height="24"></a></td>
+					<td width="1" background="themes/$apt->themepath/ft_bt_02.gif">
+					</td>
+					<td width="2" background="themes/$apt->themepath/ft_bt_02.gif">
+					</td>
+					<td width="4" background="themes/$apt->themepath/ft_bt_02.gif">
+					</td>
+					<td width="9" background="themes/$apt->themepath/ft_bt_02.gif">
+					</td>
+					<td width="4" background="themes/$apt->themepath/ft_bt_02.gif">
+					<img border="0" src="themes/$apt->themepath/verline.gif" width="1" height="50"></td>
+					<td width="17" background="themes/$apt->themepath/ft_bt_02.gif">
+					<img border="0" src="themes/$apt->themepath/ft_bt_01.gif"></td>
+				</tr>
+			</table>
+		</div>
+		</td>
+		<td background="themes/$apt->themepath/arabportal_20.gif">
+		<img border="0" src="themes/$apt->themepath/arabportal_20.gif" width="18" height="20"></td>
+	</tr>
+</table>
+</center>
+<!-- Footer End -->
+</html><=>100%|-||--|news_topic_list<=>2<=><table border="0" cellpadding="0" cellspacing="0" width="95%">
+	<tr>
+		<td height="28">
+		<div class="news_title">
+			<img border="0" src="themes/$apt->themepath/news_icon.gif" width="12" height="12">
+			<a href="$news_link">$title</a></div>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%">
+		<table border="0" cellpadding="2" style="border-collapse: collapse" width="100%" id="AutoNumber1" class="article_info">
+			<tr>
+				<td align="right" width="100%">
+				<div class="article_info">
+					<img border="0" src="themes/$apt->themepath/info.gif" width="13" height="18"> 
+					«·ﬂ« »: <a href="members.php?action=info&userid=$userid">$name</a> 
+					» «—ÌŒ: $date </div>
+				</td>
+				<td nowrap align="left" colspan="3"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%" style="padding-top: 5; padding-bottom: 5; text-align: justify">
+		$newsimage <font class="home_text">$news_head </font></td>
+	</tr>
+	<tr>
+		<td align="right" width="100%" class="info_bar2" style="padding-top: 5; padding-bottom: 5">
+		<p align="right"><a href="$news_link">
+		<img border="0" src="themes/$apt->themepath/readmore.gif" align="right"></a>
+		</p>
+		<div class="article_info">
+&nbsp; «·“Ê«—: $reader&nbsp;&nbsp;&nbsp; «· ⁄·Ìﬁ« : $numrows </div>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%">$pagenum </td>
+	</tr>
+</table>
+<hr color="#C0C0C0" width="95%" size="1" style="border-style: dotted; border-width: 1px">
+|--|link_cat<=>5<=><table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td width="100%" style="padding: 3"><font class="fonthtd">
+		<img border="0" src="images/b1.gif" align="middle" width="8" height="8">
+		<a href="$PHP_SELF?action=list&amp;cat_id=$id"><font size="4">$title</font></a></font>
+		<span class="fontablt">
+		<img border="0" src="images/topics.gif" align="middle" alt="⁄œœ «·„Ê«÷Ì⁄">
+		<font color="#C0C0C0">[$numrows] </font></span></td>
+	</tr>
+	<tr>
+		<td width="100%" class="fontablt"><font color="#808080">$dsc</font></td>
+	</tr>
+</table>
+|--|forum_topic_list<=>3<=><tr>
+<td class="forum_alt2"><img border="0" src="themes/$apt->themepath/$imgonoff"></td>
+<td class="forum_alt1">$rep_icon</td>
+<td width="100%" class="forum_alt4">
+<div style="float: left; width: 13px; height:13px">$uploadimage</div>
+<a href="forum.php?action=view&id=$id">
+<font color="#34597D">$title</font> </a>$pagenum </td>
+<td class="forum_alt1" align="center">$numrows</td>
+<td class="forum_alt2" align="center">$name</td>
+<td class="forum_alt1" align="center">$reader</td>
+<td class="forum_alt2" width="200" nowrap=""><span class="small"> «—ÌŒ ¬Œ— „‘«—ﬂ…:
+<br>
+$lastdate <br>
+»Ê«”ÿ… : $lastposter </span></td>
+</tr>
+|--|forum_table<=>3<=><table border="0" width="95%" id="table4" cellspacing="1" cellpadding="0">
+	<tr>
+		<td width="100%" class="forum_header" style="text-align: right">$rep_icon 
+		ª $title</td>
+	</tr>
+	<tr>
+		<td width="100%" class="forum_alt3">
+		<table border="0" width="100%" id="table16" cellspacing="5" cellpadding="3">
+			<tr>
+				<td width="20%" class="forum_alt15" valign="top" bgcolor="#DFE9F4" rowspan="2">
+				<div align="center">
+					<table border="0" cellpadding="0" style="border-collapse: collapse" width="140" cellspacing="3">
+						<tr>
+							<td>
+							<p align="center"><font face="Tahoma">
+							<font size="2" color="#800000">&nbsp; «·ﬂ« » :
+							</font>
+							<a href="members.php?action=info&amp;userid=$userid">
+							<font size="2" color="#800000">$username</font></a></span></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<div align="center">
+								<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" bordercolor="#7394B6" cellspacing="4">
+									<tr>
+										<td>
+										<p align="center">
+										<font face="Tahoma" size="2">
+										<span class="small">$grouptitle<br>$usertitle</span></font></p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+										<div align="center">
+											<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" cellspacing="2">
+												<tr>
+													<td>
+													<p align="center">
+													<span class="small">
+													<font size="2" face="Tahoma">
+													$userimgtitle</font></span></p>
+													</td>
+												</tr>
+											</table>
+										</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+										<div align="center">
+								
+$avatar_pic</p>$userstatus
+
+</div>
+										</td>
+									</tr>
+								</table>
+							</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<div align="center">
+								<table border="1" cellpadding="0" style="border-collapse: collapse" width="100%" bordercolor="#7394B6">
+									<tr>
+										<td bgcolor="#F5F5F5">
+										<p align="center"><span class="small">
+										<font size="2" face="Tahoma">«·„‘«—ﬂ«  : 
+										$allposts</font></span></p>
+										</td>
+									</tr>
+								</table>
+							</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<div align="center">
+								<table border="1" cellpadding="0" style="border-collapse: collapse" width="100%" bordercolor="#7394B6">
+									<tr>
+										<td bgcolor="#F5F5F5">
+										<p align="center">
+										<font face="Tahoma" size="2">
+										<span class="small"><span lang="ar-iq"> √—ÌŒ</span> 
+										«· ”ÃÌ·<br>
+&nbsp;$datetime</span></font></p>
+										</td>
+									</tr>
+								</table>
+							</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<p align="center">&nbsp;</p>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<p align="center"><span class="small">
+				<a href="mail.php?action=sendtousers&amp;userid=$userid">
+				<img border="0" src="themes/$apt->themepath/email.gif" alt="„—«”·…">
+				</a><a href="$homepage" target="_blank">
+				<img border="0" src="themes/$apt->themepath/home.gif" alt="«·„Êﬁ⁄ «·‘Œ’Ì"></a>
+<br>
+<a href="mail.php?action=report&id=$id" title="√»·€ ⁄‰ Â–Â «·„‘«—ﬂ…"><img border="0" src="images/report.gif"></a>
+				</span></p>
+</td>
+<td width="80%" valign="top" class="normal" colspan="2">
+				<p align="right"><span class="small"><font color="#808080">&nbsp;Õ—— 
+				›Ì $date - «·“Ê«— : $reader - —œÊœ : $c_comment </font></span>
+				</p>
+				<hr color="#7394B6" size="1">
+				<p align="right">$post <br><br>
+
+	$upload_file
+&nbsp;</p>
+				<div align="center">
+					<table border="0" cellpadding="0" style="border-collapse: collapse" width="90%">
+						<tr>
+							<td><fieldset style="padding: 2">
+							<legend> ÊﬁÌ⁄ ( <span class="small">
+							<a href="members.php?action=info&amp;userid=$userid">
+							$username</a></span> )</legend>
+							<div align="center">
+								<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" cellspacing="3">
+									<tr>
+										<td><center>$signature</center></td>
+									</tr>
+								</table>
+							</div>
+							</fieldset></td>
+						</tr>
+					</table>
+				</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="40%" valign="top" class="small">$adminJump </td>
+				<td width="40%" valign="top" align="left">
+				<a href="pm.php?action=sendmsg&amp;id=$userid">
+				<img border="0" src="themes/$apt->themepath/pm.gif"> </a>
+
+$edit_post
+				<a href="forum.php?action=addcomment&amp;id=$id&amp;qp=1">
+<img border="0" src="themes/$apt->themepath/quote.gif"></a> 
+</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<!--INC dir="block" file="ads.php" -->
+|--|members_pm_link<=>6<=><center>
+<table border="0" width="304">
+	<tr>
+		<td width="76" bgcolor="$bgcolor5">
+		<p align="center"><a href="pm.php?box=1">
+		<img border="0" src="themes/$apt->themepath/pr_inbox.jpg" width="76" height="56"></a></p>
+		</td>
+		<td width="76" bgcolor="$bgcolor5">
+		<p align="center"><a href="pm.php?box=2">
+		<img border="0" src="themes/$apt->themepath/pr_outbox.jpg" width="76" height="56"></a></p>
+		</td>
+		<td width="76" bgcolor="$bgcolor5">
+		<p align="center"><a href="pm.php?box=3">
+		<img border="0" src="themes/$apt->themepath/pr_save.jpg" width="76" height="56"></a></p>
+		</td>
+		<td width="76" bgcolor="$bgcolor5">
+		<p align="center"><a href="members.php?action=edit">
+		<img border="0" src="themes/$apt->themepath/setting.jpg" width="76" height="56"></a></p>
+		</td>
+	</tr>
+</table>
+</center>
+|--|link_list<=>5<=><div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tr>
+			<td width="17" bgcolor="#516A93"></td>
+			<td class="info_barff" width="100%" bgcolor="#516A93">
+			<p align="right">&nbsp;
+			<img border="0" src="themes/$apt->themepath/weblinkenter.gif">&nbsp;
+			<a target="_blank" href="$PHP_SELF?action=goto&amp;id=$id">
+			<font color="#FFFFFF" size="4">$title </font></a></p>
+			</td>
+		</tr>
+	</table>
+</div>
+<div align="center">
+	<table border="0" width="95%" bgcolor="#ffffff" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="32%" valign="top" bgcolor="#F1F9FE">
+			<div align="center">
+				<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" cellspacing="5">
+					<tr>
+						<td>
+						<p align="right"><font face="Tahoma" color="#800000">
+						<font class="fontablt"><font size="2">«·“Ì«—«  : $clicks
+						</font></font><font size="2"><br>
+						«· ﬁÌÌ„: $rating_avg&nbsp;&nbsp; <br>
+						<font class="fontablt">«·«’Ê« : $ratings</font> <br>
+						</font><font class="fontablt"><font size="2">»Ê«”ÿ… : $name
+						</font></font></font></p>
+						</td>
+					</tr>
+				</table>
+			</div>
+			</td>
+			<td height="100%" valign="top">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tr>
+					<td valign="top">
+					<div align="center">
+						<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" cellspacing="5">
+							<tr>
+								<td>
+								<p align="right"><font class="fontablt">$post</font>
+								</p>
+								</td>
+							</tr>
+						</table>
+					</div>
+					</td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td width="32%" valign="top" bgcolor="#F1F9FE">&nbsp;</td>
+			<td height="100%" valign="top" bgcolor="#F8F8F8">
+			<font face="Tahoma" size="2" color="#800000">&nbsp;
+			<img border="0" src="themes/$apt->themepath/world.png" width="12" height="12"><span lang="ar-iq"><font color="#800000">
+			<span style="text-decoration: none">
+			<a target="_blank" href="$PHP_SELF?action=goto&amp;id=$id">
+			<font color="#800000"><span style="text-decoration: none">«·œŒÊ· ··„Êﬁ⁄</span></font></a></span></font>&nbsp; 
+			|&nbsp;
+			<img border="0" src="themes/$apt->themepath/chart_bar.png" width="12" height="12"></span><font color="#800000">
+			<span lang="ar-iq" style="text-decoration: none">
+			<a href="javascript:rafiawin('popup.php?action=ratek&id=$id',200,400)">
+			<font color="#800000"><span style="text-decoration: none"> ﬁÌÌ„ «·„Êﬁ⁄</span></font></a></span></font><span lang="ar-iq">&nbsp; 
+			|&nbsp;
+			<img border="0" src="themes/$apt->themepath/link_break.png" width="12" height="12"></span><font color="#800000">
+			<span lang="ar-iq" style="text-decoration: none">
+			<a href="javascript:rafiawin('popup.php?action=alertl&id=$id',200,400)">
+			<font color="#800000"><span style="text-decoration: none">—«»ÿ „⁄ÿ·</span></font></a></span></font><span lang="ar-iq">&nbsp; 
+			|&nbsp;
+			<img border="0" src="themes/$apt->themepath/page_white_edit.png" width="12" height="12"></span><font color="#800000">
+			<span style="text-decoration: none">
+			<a href="$PHP_SELF?action=edit&amp;id=$id"><span lang="ar-iq">
+			<font color="#800000"><span style="text-decoration: none"> Õ—Ì—</span></font></span></a></span></font></font></td>
+		</tr>
+	</table>
+</div>
+<hr color="#C0C0C0" width="95%" size="1">
+|--|show_members<=>6<=><br>
+<div align="center">
+<table border="0" width="90%" cellspacing="5" cellpadding="5"><tr><td>
+<table class="letter_table" dir="ltr" width="100%" height="30"><tr>$english_letters</tr></table></td></tr>
+<tr><td>
+<table class="letter_table" width="100%" height="30"><tr>$arabic_letters</tr></table></td></tr>
+<tr><td>
+<table width="100%"><tr><td  width="15%"><b><font class=articles_info>
+«»ÕÀ ⁄‰ ⁄÷Ê: </font></td><td>
+<form method="post" action="members.php?action=msearch">
+<input type="text" name="membername" size="30">
+<input type="submit" value="«»ÕÀ" class="button">
+</form>
+</td></tr></table>
+
+</td></tr></table>
+
+
+<table table border="1" width="90%" cellspacing="0" cellpadding="0" width="70%" style="border-collapse: collapse"><tr>
+<td class="forum_header" width="5%" bgcolor="$color"><font class=articles_info>  «·—ﬁ„</font></td>
+      <td class="forum_header" width="40%" bgcolor="$color"><font class=articles_info>  
+«”„ «·ﬂ« »</font></td>
+      <td class="forum_header" width="20%" bgcolor="$color"><font class=articles_info>  ⁄œœ «·„‘«—ﬂ« </font></td>
+<td class="forum_header" width="25%" bgcolor="$color"><font class=articles_info>   «—ÌŒ «· ”ÃÌ·</font></td>
+      <td class="forum_header"  width="10%" bgcolor="$color" align="center"><font class=articles_info>  
+„—«”·…
+  </font></td></tr>
+$show_members_list
+<tr>
+<td class="forum_header" colspan="5" style="text-align: left">
+
+
+<form method="get" action="members.php">
+<span class=small>
+ — Ì» «·√⁄÷«¡ »Õ”» <select name="morder" size="1">
+<option value="userid" selected>«·—ﬁ„ «·„⁄—›Ì</option>
+<option value="username">«·«”„</option>
+<option value="usergroup">«·„Ã„Ê⁄…</option>
+<option value="topics">⁄œœ «·„‘«—ﬂ« </option>
+<option value="regdate"> «—ÌŒ «· ”ÃÌ·</option>
+</select><select name="msort" size="1">
+<option value="DESC" selected> ‰«“·Ì«</option>
+<option value="ASC"> ’«⁄œÌ«</option>
+
+</select> 
+<input type="submit" value="ﬁ„ »«·⁄„·Ì…" class="button">
+</span>
+
+</td>
+</tr>
+</table>
+</div>
+|--|download_cat<=>4<=><table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td width="100%" style="padding: 3">
+		<img border="0" src="images/b1.gif" align="middle" width="8" height="8">
+		<span dir="RTL" class="fonthtww">
+		<a href="download.php?action=list&amp;cat_id=$id"><font size="4">$title</font></a></font></span>
+		<span class="fontablt">
+		<img border="0" src="images/topics.gif" align="middle" alt="⁄œœ «·„·›« ">
+		<font color="#C0C0C0">[$numrows] </font></span></td>
+	</tr>
+	<tr>
+		<td width="100%" class="fontablt">
+		<blockquote>
+			<font color="#808080">$dsc</font></blockquote>
+		</td>
+	</tr>
+</table>
+<hr color="#000000" size="1" width="90%">
+|--|download_table<=>4<=><div align="center">
+	<table border="0" width="98%" id="table3" cellspacing="0" cellpadding="0">
+		<tr>
+			<td class="forum_header">„⁄·Ê„«  ⁄‰ «·»—‰«„Ã</td>
+		</tr>
+		<tr>
+			<td>
+			<table border="1" width="100%" id="table4" cellpadding="4" class="fontablt" style="border-collapse: collapse" bordercolor="#D0DFF0" cellspacing="3">
+				<tr>
+					<td nowrap="" class="info_bar" bgcolor="#F4FCFF" align="right">
+					«”„ «·»—‰«„Ã:</td>
+					<td width="100%" bgcolor="#F4FCFF" align="right">$title</td>
+				</tr>
+				<tr>
+					<td nowrap="" class="info_bar" bgcolor="#F8F8F8" align="right">
+					«·ÕÃ„:</td>
+					<td width="100%" bgcolor="#F8F8F8" align="right">$size</td>
+				</tr>
+				<tr>
+					<td nowrap="" class="info_bar" bgcolor="#F4FCFF" align="right">
+					„—«  «· Õ„Ì·:</td>
+					<td width="100%" bgcolor="#F4FCFF" align="right">$clicks</td>
+				</tr>
+				<tr>
+					<td nowrap="" class="info_bar" bgcolor="#F8F8F8" align="right">
+					«·√’Ê« :</td>
+					<td width="100%" bgcolor="#F8F8F8" align="right">$ratings</td>
+				</tr>
+				<tr>
+					<td nowrap="" class="info_bar" bgcolor="#F4FCFF" align="right">
+					«· ﬁÌÌ„:</td>
+					<td width="100%" bgcolor="#F4FCFF" align="right">
+					<font class="fontablt">$rating_avg</font></td>
+				</tr>
+				<tr>
+					<td nowrap="" class="info_bar" bgcolor="#F8F8F8" align="right">
+					 «—ÌŒ «·≈÷«›…:</td>
+					<td width="100%" bgcolor="#F8F8F8" align="right">$date</td>
+				</tr>
+				<tr>
+					<td nowrap="" class="info_bar" bgcolor="#F4FCFF" align="right">
+					’·«ÕÌ… «· Õ„Ì·</td>
+					<td width="100%" bgcolor="#F4FCFF" align="right">$formmember</td>
+				</tr>
+				<tr>
+					<td nowrap="" class="info_bar" bgcolor="#F8F8F8" align="right">
+					«·Ê’›:</td>
+					<td width="100%" align="right">$post_head <hr>$post </td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%">&nbsp;</td>
+		</tr>
+		<tr>
+			<td align="left">
+			<p align="right">$action <font class="fontablt">
+			<img border="0" src="themes/$apt->themepath/download.gif"> </font></a>
+			<a href="javascript:rafiawin('popup.php?action=alert&id=$id',200,400)">
+			<img border="0" src="themes/$apt->themepath/hidlink.gif"></a>
+			<a href="javascript:rafiawin('popup.php?action=rated&id=$id',200,400)">
+			<img border="0" src="themes/$apt->themepath/rank.gif"></a>
+			<a href="download.php?action=edit&amp;id=$id">
+			<img border="0" src="themes/$apt->themepath/edit.gif"></a> </p>
+			</td>
+		</tr>
+	</table>
+</div>
+|--|forum_main<=>3<=>$pagehd
+<div align="center">
+	<table border="0" cellpadding="0" style="border-collapse: collapse" width="$themewidth">
+		<tr>
+			<td width="30">
+			<img border="0" src="themes/$apt->themepath/last_teat_04.gif"></td>
+			<td width="100%" background="themes/$apt->themepath/last_teat_02.gif">
+			<!--INC dir="block" file="last_10_forum.php" --></td>
+			<td width="25">
+			<img border="0" src="themes/$apt->themepath/last_teat_01.gif"></td>
+		</tr>
+	</table>
+</div>
+<div align="center">
+	<table border="0" cellpadding="0" style="border-collapse: collapse" width="$themewidth">
+		<tr>
+			<td bgcolor="#516A93" width="18">&nbsp;</td>
+			<td>
+			<html dir="rtl">
+
+			<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
+
+			<center>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%" bgcolor="#FFFFFF">
+				<tr>
+					<td width="100%" valign="top" style="padding: 5px" class="forum_control_bar">
+					<div style="float: right">
+						$users_tools</div>
+					<div style="float: left; width: 234px; height: 27px">
+						<form name="search_form" action="search.php" method="post" style="margin: 0px; padding: 0px">
+							<input type="text" name="searchfor" size="14"><input type="hidden" name="searchin" value="rafia_forum">
+							<input class="button" type="submit" name="submit" value="»ÕÀ">
+							<a href="search.php?action=search">»ÕÀ „ ﬁœ„</a>&nbsp;&nbsp;
+						</form>
+					</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="100%" valign="top" align="center" style="padding: 5px" height="100%">
+					<center>$ads_head </center>
+
+$forum_middle </td>
+				</tr>
+			</table>
+			</center><center>$ads_foot</center></td>
+			<td bgcolor="#516A93" width="19">&nbsp;</td>
+			</tr>
+		</table>
+		</div>
+		$pageft
+|--|forum_cat<=>3<=><tr>
+<td class="forum_alt2"><img border="0" src="themes/$apt->themepath/$cat_icon"></td>
+<td align="right" width="100%" class="forum_alt4">
+<a href="forum.php?action=list&amp;cat_id=$id"><font color="#800000">$title
+</font></a>
+<div class="small">
+	$dsc</div>
+<div class="small">
+	«·„‰ œÏ »«‘—«› :<b> $moderatename</b> </div>
+</td>
+<td width="200" class="forum_alt1"><span class="small">
+<a href="forum.php?action=view&amp;id=$lastpostid">$lasttitle </a><br>
+$lastpostd <br>
+»Ê«”ÿ… : <a href="members.php?action=info&amp;userid=$lastposterid">$username</a>
+</span></td>
+<td class="forum_alt2" align="center">$numrows</td>
+<td class="forum_alt1" align="center">$numcomment</td>
+</tr>
+|--|s_view_topic_comment<=>1<=><center>
+<table border="0" width="90%" cellpadding="1" bordercolorlight="cellspacing=0">
+	<tr>
+		<td width="50%" valign="top" bgcolor="F4F4F4" align="right"><b>
+		<font class="fontht">«·ﬂ« » : $name || » «—ÌŒ : $date </font></b></td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top" bgcolor="F4F4F4" align="right">
+		<font class="fontablt"><b>$title</b><br>
+		$comment </font></b></td>
+	</tr>
+</table>
+<hr noshade="" color="#000000" size="0" width="90%"></center>
+|--|forum_main_table<=>3<=><table border="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#E6F0FB" width="95%">
+	<tr>
+		<td width="33%">&nbsp;</td>
+		<td width="33%">&nbsp;</td>
+		<td width="34%">&nbsp;$last_topics</td>
+	</tr>
+</table>
+<table border="1" width="95%" id="table4" cellspacing="3" cellpadding="2" style="border-collapse: collapse" bordercolor="#D1E3F8">
+	<tr>
+		<td class="forum_header">&nbsp;</td>
+		<td width="100%" class="forum_header">«·„‰ œÏ</td>
+		<td width="200" class="forum_header" nowrap="">¬Œ— „‘«—ﬂ…</td>
+		<td class="forum_header">«·„Ê«÷Ì⁄</td>
+		<td class="forum_header">«·—œÊœ</td>
+	</tr>
+	$forum_cat_table
+</table>
+<br>
+|--|member_cp<=>6<=><div align="center">
+	<center>
+	<table border="0" width="90%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="100%">
+			<div align="center">
+				<table border="0" width="100%">
+					<tr>
+						<td width="50%" bgcolor="$bgcolor2"></td>
+					</tr>
+				</table>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%">
+			<div align="center">
+				<table border="0" width="100%" cellspacing="4">
+					<tr>
+						<td width="88%" align="right" colspan="2" background="themes/$apt->themepath/catbg2.gif" height="27">
+						<p align="center"><b>
+						<font face="Times New Roman" color="#FFFFFF">
+						<span lang="ar-sa">«·„·› «·‘Œ’Ì</span></font></b></p>
+						</td>
+					</tr>
+					<tr>
+						<td width="15%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">≈”„ «·„” Œœ„</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">
+						<a href="members.php?action=info&amp;userid=$userid">$username</a>
+						</font></td>
+					</tr>
+					<tr>
+						<td width="15%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt"> «—ÌŒ «· ”ÃÌ·</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$date</font></td>
+					</tr>
+					<tr>
+						<td width="15%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">«·Ê’›</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$usertitle</font></td>
+					</tr>
+					<tr>
+						<td width="15%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">«·»—Ìœ</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt"><a href="mailto:$email">$email</a>
+						</font></td>
+					</tr>
+					<tr>
+						<td width="15%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">«·„Êﬁ⁄</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt"><a href="$homepage">$homepage</a>
+						</font></td>
+					</tr>
+					<tr>
+						<td width="15%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">Õ”«» „—«”·…</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$showemail </font></td>
+					</tr>
+					<tr>
+						<td width="15%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">⁄œœ Ã„Ì⁄ «·„‘«—ﬂ« </font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$allposts </font></td>
+					</tr>
+					<tr>
+						<td width="15%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">«·’Ê—… «·—„“ÌÂ</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$avatar_pic</font></td>
+					</tr>
+				</table>
+			</div>
+			</td>
+		</tr>
+	</table>
+	</center></div>
+|--|Index_main<=>1<=>$pagehd
+<div align="center">
+	<table border="0" cellpadding="0" style="border-collapse: collapse" width="$themewidth">
+		<tr>
+			<td width="30">
+			<img border="0" src="themes/$apt->themepath/last_teat_04.gif"></td>
+			<td width="100%" background="themes/$apt->themepath/last_teat_02.gif">
+			<!--INC dir="block" file="last_10_news.php" --></td>
+			<td width="25">
+			<img border="0" src="themes/$apt->themepath/last_teat_01.gif"></td>
+		</tr>
+	</table>
+</div>
+<div align="center">
+	<table border="0" width="$themewidth" cellpadding="0" style="border-collapse: collapse" height="100%">
+		<tr>
+			<td nowrap bgcolor="#516A93" width="18">&nbsp;</td>
+			<td align="center" width="176" valign="top" background="themes/$apt->themepath/arabportal_19.gif" bgcolor="#F4F9FB">$right_menu<br>
+			</td>
+			<td width="100%" valign="top" align="center" style="padding: 5px" bgcolor="#FFFFFF">
+			<table border="0" width="100%" cellpadding="0" style="border-collapse: collapse">
+				<tr>
+					<td width="9">
+					<img border="0" src="themes/$apt->themepath/frame_index_03.gif" width="14" height="14"></td>
+					<td background="themes/$apt->themepath/frame_index_02.gif">
+					<img border="0" src="themes/$apt->themepath/frame_index_02.gif" width="61" height="14"></td>
+					<td width="8">
+					<img border="0" src="themes/$apt->themepath/frame_index_01.gif" width="15" height="14"></td>
+				</tr>
+				<tr>
+					<td width="9" background="themes/$apt->themepath/frame_index_06.gif">
+					<img border="0" src="themes/$apt->themepath/frame_index_06.gif" width="14" height="56"></td>
+					<td>
+					<p align="center">$ads_head $index_middle <br>
+					$middle_menu <br>
+					$ads_foot</td>
+					<td width="8" background="themes/$apt->themepath/frame_index_04.gif">
+					<img border="0" src="themes/$apt->themepath/frame_index_04.gif" width="15" height="56"></td>
+				</tr>
+				<tr>
+					<td width="9">
+					<img border="0" src="themes/$apt->themepath/frame_index_09.gif" width="14" height="14"></td>
+					<td background="themes/$apt->themepath/frame_index_08.gif">
+					<img border="0" src="themes/$apt->themepath/frame_index_08.gif" width="61" height="14"></td>
+					<td width="8">
+					<img border="0" src="themes/$apt->themepath/frame_index_07.gif" width="15" height="14"></td>
+				</tr>
+			</table>
+			<td align="center" width="176" valign="top" background="themes/$apt->themepath/arabportal_17.gif" bgcolor="#F4F9FB">$left_menu 
+			</td>
+			<td nowrap bgcolor="#516A93" width="19">&nbsp;</td>
+		</tr>
+	</table>
+</div>
+$pageft
+|--|news_show<=>2<=><table border="0" width="98%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="right" class="forum_header">⁄—÷ «·Œ»— </td>
+	</tr>
+	<tr>
+		<td class="normal">$pre_post</td>
+	</tr>
+</table>
+
+<script language="javascript">
+function checkForm(){
+	if (!document.rafia.title.value) {
+		alert('⁄›Ê« ... «‰  ·„  ﬁ„ »ﬂ «»… ⁄‰Ê«‰ «·Œ»—'); 
+		return false;
+	} 
+	if (document.rafia.post_head.value.length >= $counthead) {
+		alert("⁄›Ê« ... ⁄œœ Õ—Ê› —√” «·Œ»— «ﬂÀ— „‰ $counthead"); 
+		return false;
+	} 
+	if (!document.rafia.post.value) {
+		alert('⁄›Ê« ... «‰  ·„  ﬁ„ »ﬂ «»… ‰’ «·Œ»—'); 
+		return false;
+
+	}
+document.rafia.spam.value ='newsnotspam_$cap';
+}
+</script>
+<form onsubmit="return checkForm(this)" action="news.php?action=insert" method="post" name="rafia" enctype="multipart/form-data">
+	<table border="0" width="98%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td align="right" class="forum_header">≈÷«›… Œ»— </td>
+		</tr>
+		<tr>
+			<td>
+			<table border="0" width="100%" id="table13" cellpadding="2" class="fontablt">
+				$usernamef$useridf$selectform<tr>
+					<td align="right" nowrap="" class="info_bar">«·„Ê÷Ê⁄ :
+					<font color="#FF0000">*</font> </td>
+					<td align="right" width="100%">
+					<input type="text" name="title" value="$title" size="35" class="text_box">
+					</td>
+				</tr>
+				$txtcounth<tr>
+					<td align="right" nowrap="" class="info_bar" valign="top">—√” 
+					«·Œ»— : <br>«Œ Ì«—Ì</td>
+					<td align="right" width="100%">
+					<textarea name="post_head" rows="8" cols="60" onkeypress="return countIt();">$post_head</textarea></td>
+				</tr>
+				$editor$txtcount<tr>
+					<td align="right" nowrap="" class="info_bar" valign="top">‰’
+					«·Œ»— : <font color="#FF0000">*</font> <br>
+					ÿÊ· «·‰’ ÌÃ» «‰ ÌﬂÊ‰ <br>
+					√ﬁ· „‰ : $countpost Õ—›<br>
+					<center><a href="#" onmouseover="return proces()">≈Œ »«— «·ÿÊ·</a><br>
+					 »ﬁÏ ·ﬂ :
+					<input size="5" name="remain" type="text" value="$countpost">
+					<center></center></center></td>
+					<td align="right" width="100%">$form_code<br>
+					<textarea onmouseover="return proces()" onbeforeeditfocus="return proces()" onmouseout="return proces()" name="post" rows="15" cols="60" id="post" wrap="virtual">$post</textarea><input type="hidden" name="left" value="$countpost" size="7" class="text_box"></td>
+				</tr>
+				<tr>
+					<td align="right" nowrap="" class="info_bar">«· »·Ì€ »«·»—Ìœ 
+					«·≈·ﬂ —Ê‰Ì </td>
+					<td align="right" width="100%">
+					<input type="radio" name="H" value="1"> ‰⁄„
+					<input type="radio" name="H" value="0" checked> ·« </td>
+				</tr>
+				<tr>
+					<td align="right" nowrap="" class="info_bar">⁄—÷ «·„Ê÷Ê⁄ ›Ì 
+					’›Õ… «·»œ«Ì…ø </td>
+					<td align="right" width="100%">
+					<input type="radio" name="inindex" value="1" checked=""> ‰⁄„&nbsp;
+					<input type="radio" name="inindex" value="0"> ·«</td>
+				</tr>
+				<tr>
+					<td align="right" nowrap="" class="info_bar">⁄—÷ «·„Ê÷Ê⁄ ›Ì 
+					ﬁ«∆„… √Â„ «·«Œ»«—ø </td>
+					<td align="right" width="100%">
+					<input type="radio" name="inmenu" value="1"> ‰⁄„&nbsp;
+					<input type="radio" name="inmenu" value="0" checked=""> ·«</td>
+				</tr>
+				$main_n<tr>
+					<td align="right" nowrap="" class="info_bar">«” Œœ«„ «·’Ê—… 
+					«·«› —«÷Ì… ··ﬁ”„ø </td>
+					<td align="right" width="100%">
+					<input type="radio" name="catmig" value="1"> ‰⁄„&nbsp;
+					<input type="radio" name="catmig" value="0" checked=""> ·«</td>
+				</tr>
+
+
+				$fileupload $imgupload
+<tr><td align="right" nowrap="" class="info_bar">‰Ê⁄ «·⁄„·Ì… :</td>
+<td align="right" width="100%">
+<input type="radio" name="doshow" value="0" checked=""> Õ›Ÿ «·„Ê÷Ê⁄ &nbsp;
+<input type="radio" name="doshow" value="1"> ⁄—÷ «·„Ê÷Ê⁄
+</td></tr>
+				<input type="hidden" name="spam" value="spam">
+				<input type="hidden" name="action" value="insert">
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center">
+<input border="0" src="themes/$apt->themepath/newnews.gif" name="dosubmit" width="98" height="24" type="image">
+</td>
+					</tr>
+				</table> </form>
+|--|forum_cat_table<=>3<=><tr>
+<td colspan="5">
+<table border="0" width="100%" id="table6" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="forum_header2">
+		<a href="forum.php?action=list&amp;cat_id=$id"><font color="#FFFFFF">$title
+		</font></a></td>
+	</tr>
+</table>
+</td>
+</tr>
+$forum_cat
+|--|form_code<=>1<=><table cellpadding="0" cellspacing="0" border="0">
+	<tr valign="bottom">
+		<td colspan="2">
+		<!-- start control bar -->
+		<div id="controlbar">
+			<!-- / start control bar -->
+			<!-- first control row -->
+			<div class="controlholder">
+				<!-- MagicToolBox 2.5 by Alawi BaAqeel, software@rayaheen.net -->
+				<script language="Javascript" src="html/toolbox/toolbox.js"></script>
+				<script language="Javascript">
+toolbox_backcolor = "#ECE9D8";
+btn_bordercolor = "black";
+btn_backcolor_over = "cornsilk";
+btn_backcolor_down = "white";
+statusColor = "black";
+tipColor = "maroon";
+</script>
+				<style type="text/css">
+.cbtn {
+	width: 20px;
+	height: 18px;
+	cursor: hand;
+}
+</style>
+				<table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr>
+						<td align="center" oncontextmenu="return false" onselectstart="return false" onmousedown="Capture(1)" onmouseup="Capture(0)" onmousemove="Capture(0)">
+						<script language="javascript" h="">
+showButtons();
+showKeyboard();
+</script>
+						</td>
+					</tr>
+				</table>
+				<!-- end of MagicToolBox 2.5 for vB3 --></div>
+			<!-- end control bar --></div>
+		<!-- / end control bar --></td>
+	</tr>
+	<tr valign="top">
+		<td class="controlbar"></td>
+	</tr>
+</table>
+|--|link_cat_tools<=>5<=><table border="0" width="90%" cellspacing="1">
+	<tr>
+		<td width="100%" align="right">
+		<div align="center">
+			<table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td width="50%" align="right">$Jump</td>
+					<center>
+					<td width="50%" align="right">
+					<a href="$PHP_SELF?action=add&amp;cat_id=$cat_id">
+					<img border="0" src="themes/$apt->themepath/$cat_img" align="left"></a></td>
+				</tr>
+			</table>
+			</center></div>
+		</td>
+	</tr>
+</table>
+|--|guestbook_table<=>1<=><!-- guestbook_table START -->
+<table border="0" width="100%" id="side_menu" cellspacing="0" cellpadding="0">
+	<tr>
+		<td bgcolor="#F1F1F1" style="padding-right: 5px" class="fontablt" colspan="3" align="right">
+		<a href="$PHP_SELF?action=edit&amp;id=$id">
+		<img border="0" src="themes/$apt->themepath/g_edit.gif" width="16" height="16"></a>
+		<a href="$url" target="_blank">
+		<img border="0" src="themes/$apt->themepath/home.gif" width="16" height="16"></a>
+		<a href="mailto:$email">
+		<img border="0" src="themes/$apt->themepath/email.gif" width="16" height="16"></a>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#F9F9F9" style="padding-right: 5px" class="fontablt" colspan="3" align="right">
+		<font class="fontablt">$guestbook <br>
+		<br>
+		</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#F1F1F1" style="padding-right: 5px" align="right" class="fontht2" colspan="3">
+		<font class="fontht2">«·«”„ : $name</font> </td>
+	</tr>
+</table>
+<br>
+<!-- guestbook_table END -->
+|--|forum_list_bottom<=>3<=><table border="0" id="table10" cellspacing="3" cellpadding="3" class="small" width="95%">
+	<tr>
+		<td nowrap="">
+		<img border="0" src="themes/$apt->themepath/posticon.gif" width="12" height="16"></td>
+		<td nowrap="">„Ê«÷Ì⁄ ﬁœÌ„…</td>
+		<td nowrap="">
+		<img border="0" src="themes/$apt->themepath/postnew.gif" width="12" height="16"></td>
+		<td nowrap="">„Ê«÷Ì⁄ ÃœÌœ…</td>
+		<td width="100%">&nbsp;</td>
+	</tr>
+	<tr>
+		<td nowrap="">
+		<img border="0" src="themes/$apt->themepath/posthot.gif" width="12" height="16"></td>
+		<td nowrap="">„Ê«÷Ì⁄ ”«Œ‰…</td>
+		<td nowrap="">
+		<img border="0" src="themes/$apt->themepath/Sticky.gif" width="12" height="16"></td>
+		<td nowrap="">„Ê«÷Ì⁄ „ „Ì“…</td>
+		<td width="100%">&nbsp;</td>
+	</tr>
+	<tr>
+		<td nowrap="">
+		<img border="0" src="themes/$apt->themepath/postlock.gif" width="12" height="16"></td>
+		<td nowrap="">„Ê«÷Ì⁄ „€·ﬁ…</td>
+		<td nowrap="">&nbsp;</td>
+		<td nowrap="">&nbsp;</td>
+		<td width="100%">&nbsp;</td>
+	</tr>
+</table>
+|--|pm_msg_list<=>6<=><!-- pm_msg_list -->
+<tr>
+<td width="29" bgcolor="#D8E3F1">
+<p align="center">$msgisread</td>
+<td width="41%" bgcolor="#ECF2F9"><b>
+<a href="/pm.php?action=view&amp;msgid=$id" style="text-decoration: none">
+<font color="#34597D">&nbsp;</a><a href="$PHP_SELF?action=view&amp;msgid=$msgid&amp;box=$box">$msgtitle</a></font></a></b></td>
+<td id="m4" width="12%" align="center" bgcolor="#D8E3F1">
+<font color="#34597D" face="Arial"><b><span lang="en-us">$fromusername</span></b></font></td>
+<td id="m4" width="263" bgcolor="#ECF2F9"></p>
+<div class="">
+	<p align="center"><font color="#34597D" face="Tahoma" size="2">
+	<strong style="font-weight: 400">$msgdate</strong> </font></p>
+</div>
+</td>
+<td align="center" style="padding: 0px" width="2%" bgcolor="#DFE9F4">
+<input type="checkbox" name="msgsid[]" value="$msgid" /></td>
+</tr>
+<!-- // pm_msg_list -->
+|--|pm_msg_table<=>6<=><table border="0" width="96%" cellspacing="0">
+	<tr>
+		<td width="100%" valign="bottom">
+		<p align="right" class="forum_alt2">
+		<img height="21" src="themes/$apt->themepath/navbits_start.gif" width="21" align="absMiddle" border="0">
+		<a href="pm.php">«·—”«∆· «·Œ«’…</a> <br>
+		<img height="15" src="themes/$apt->themepath/icon_bar.gif" width="15" align="absMiddle" border="0">
+		<img height="21" src="themes/$apt->themepath/navbits_finallink.gif" width="21" align="absMiddle" border="0"><a href="pm.php?box=1">’‰œÊﬁ 
+		«·Ê«—œ</a> ª $msgtitle</p>
+		</td>
+	</tr>
+</table>
+<br />
+<table border="0" width="95%" id="table4" cellspacing="1" cellpadding="0">
+	<tr>
+		<td width="100%" class="forum_header" style="text-align: right">$rep_icon 
+		ª $msgtitle</td>
+	</tr>
+	<tr>
+		<td width="100%" class="forum_alt3">
+		<table border="0" width="100%" id="table16">
+			<tr>
+			</tr>
+			<tr>
+				<td width="100%" class="forum_alt3">
+				<table border="0" width="100%" id="table16">
+					<tr>
+						<td width="20%" class="forum_alt1" valign="top">
+						<span class="small">«·ﬂ« »:
+						<a href="members.php?action=info&amp;userid=$userid">$username</a>
+						<br>
+						$userimgtitle<br>
+						«· ”ÃÌ· : $date<br>
+						«·„‘«—ﬂ«  : $allpost<br>
+						<a href="mail.php?action=sendtousers&amp;userid=$userid">
+						<img border="0" src="themes/$apt->themepath/email.gif" alt="„—«”·…">
+						</a><a href="$homepage" target="_blank">
+						<img border="0" src="themes/$apt->themepath/home.gif" alt="«·„Êﬁ⁄ «·‘Œ’Ì"></a>
+						<br>
+						</span></td>
+						<td width="80%" valign="top" class="forum_alt2" colspan="2">
+						<span class="small"></a>Õ—— ›Ì $msgdate</font> </span>
+						<hr color="#7394B6" size="1"><b>$msgtitle</b> $message
+						<br>
+						$upload_file<br>
+						<hr color="#7394B6" size="1"><center>$signature</center>
+						</td>
+					</tr>
+					<tr>
+						<td width="20%" class="small" valign="top" align="center">
+						</td>
+						<td width="40%" valign="top" class="small"></td>
+						<td width="60%" valign="top" align="left">
+						<a href="pm.php?action=reply&amp;id=$msgid&amp;box=$box">
+						<img border="0" src="themes/$apt->themepath/sendpm.gif"></a>
+						<a href="pm.php?action=manag&amp;case=del&amp;id=$msgid&amp;box=$box">
+						<img border="0" src="themes/$apt->themepath/del.gif"></a>
+						<a href="pm.php?action=manag&amp;case=save&amp;id=$msgid&amp;box=$box">
+						<img border="0" src="themes/$apt->themepath/save.gif"></a>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+|--|body_msg<=>1<=><script>
+
+var redirecturl="$url"
+var pausefor=5
+
+//DONE EDITING
+
+function postaction(){
+if (window.timer){
+clearInterval(timer)
+clearInterval(timer_2)
+}
+window.location=redirecturl
+}
+setTimeout("postaction()",pausefor*1000)
+
+</script>
+<div align="center">
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<table width="60%" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td height="24" background="themes/$themepath/cat_bg.jpg">
+			<p align="center"><font size="4">—”«·… «·„Êﬁ⁄ </font></p>
+			</td>
+		</tr>
+		</tr>
+		<tr>
+			<td align="center" height="85" bgcolor="#EFF9FC">
+			<font class="fontabltee"><font size="4">$msg</font></font><font size="4"><br>
+			<img border="0" src="themes/$themepath/loading.gif"><br>
+			<font color="#454545">Ã«—Ì «· ÕÊÌ· Ì—ÃÏ «·«‰ Ÿ«— √Ê </font>
+			<a title="≈÷€ÿ Â‰«" href="$url"><font color="#800000">
+			<span style="text-decoration: none">«÷€ÿ Â‰«</span></font></a></font><font size="4" color="#454545"> 
+			≈–« ﬂ«‰ „ ’›Õﬂ ·« Ìœ⁄„ «·«‰ ﬁ«· «· ·ﬁ«∆Ì </font></td>
+		</tr>
+	</table>
+</div>
+|--|uploadfile<=>1<=><div align="center">
+	<table border="1" cellpadding="3" style="border-collapse: collapse;" bordercolor="#C0C0C0" width="90%" id="AutoNumber7">
+		<tr>
+			<td width="100%" colspan="2">
+			<p align="center"><font size="1" face="Windows UI"><b>&nbsp;„·› „—›ﬁ&nbsp; 
+			$download</b></font></p>
+			</td>
+		</tr>
+		<tr>
+			<td width="32%"><b><font size="1" face="Windows UI">⁄œœ „—«  «· Õ„Ì·</font></b></td>
+			<td width="68%"><b><font size="1" face="Windows UI">$upclicks</font></b></td>
+		</tr>
+		<tr>
+			<td width="32%"><b><font size="1" face="Windows UI">ÕÃ„ «·„·›</font></b></td>
+			<td width="68%"><font size="1" face="Windows UI"><b>$upsize</b></font><font class="fontablt">
+			<font size="1" face="Windows UI"><b>»«Ì </b></font></font></td>
+		</tr>
+		<tr>
+			<td width="32%"><b><font size="1" face="Windows UI">«”„ «·„·›</font></b></td>
+			<td width="68%"><b><font size="1" face="Windows UI">$upname</font></b></td>
+		</tr>
+	</table>
+</div>
+|--|blockmenu<=>7<=><!-- BLOCK START -->
+<table width="171" border="0" cellpadding="0" style="border-collapse: collapse">
+	<tr>
+		<td height="26" background="themes/$apt->themepath/menu_head.gif">
+		<p align="right"><font class="side_menu_head">&nbsp;&nbsp;&nbsp;&nbsp; {block_head}</font></p>
+		</td>
+	</tr>
+	</tr>
+	<tr>
+		<td style="padding-right: 0px" class="side_menu_center">{block_center}</td>
+	</tr>
+	<tr>
+		<td style="padding-right: 0px" class="side_menu_center">&nbsp;</td>
+	</tr>
+	<tr>
+		<td style="padding-right: 0px" class="side_menu_center">
+		<img border="0" src="themes/$apt->themepath/menu_but.gif"></td>
+	</tr>
+</table>
+<!-- BLOCK END -->
+<div align="center">
+	<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%">
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</table>
+</div>
+|--|error_msg<=>1<=><body bgcolor="#FFFFFF">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+	<center>
+	<table border="0" width="80%" bgcolor="#EBEBEB">
+		<tr>
+			<td width="100%" align="center"><br>
+			<font class="fontablt">$msg<br>
+			<br>
+			<center>[ <a href="javascript:history.go(-1);">«·—ÃÊ⁄ ··Œ·›</a> ]</center>
+			<br>
+			</font></td>
+		</tr>
+	</table>
+	</center></div>
+|--|pm_list_table<=>6<=><br />
+<form method="POST" action="$PHP_SELF?action=manag" name="admin">
+	<div align="center">
+		<table cellpadding="6" cellspacing="1" border="1" width="100%" style="border-collapse: collapse">
+			<thead>
+				<tr>
+					<td colspan="5" style="padding: 6px 0 6px 6px" bgcolor="#F2F0EE">
+					<p align="center"><b><font color="#34597D">$nummsg —”«·… „‰ 
+					√’· $total —”«·… ﬂÕœ √ﬁ’Ï</font></b></p>
+					<div align="center">
+						<table border="1" width="400" id="table5" style="border-collapse: collapse">
+							<tr>
+								<td width="100%" align="center"><center>
+								<table border="1" width="100%" id="table6" style="border-collapse: collapse">
+									<tr>
+										<td width="100%" background="themes/$apt->themepath/pm_cell.gif">
+										<font class="fontablt" color="#FFFFFF">
+										<p align="center"><b>$box_title „„ ·∆ »„⁄œ· 
+										$width % </b></p>
+										</font></td>
+									</tr>
+								</table>
+								<table border="0" width="400" cellspacing="0" cellpadding="0" id="table7">
+									<tr>
+										<td width="100%" height="3"></td>
+									</tr>
+									<tr>
+										<td width="100%">
+										<img border="0" src="images/msg.gif" width="$width%" height="10"></td>
+									</tr>
+								</table>
+								</center></td>
+							</tr>
+							<tr>
+								<td width="100%" align="center">
+								<table border="0" width="400" id="table8">
+									<tr>
+										<td width="50%" align="right">
+										<font size="1"><b>0 %</b></font></td>
+										<td width="50%" align="left">
+										<font size="1"><b>100 %</b></font></td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+					</div>
+					</td>
+				</tr>
+			</thead>
+			<tr>
+				<td class="" colspan="5" style="padding-top: 3px; padding-bottom: 3px; border-bottom: 1px outset;" width="102%" background="themes/$apt->themepath/catbg2.gif">
+				<p align="center"><font color="#FFFFFF"><b>$box_title</b></font>
+				</p>
+				</td>
+			</tr>
+			<tbody id="collapseobj_pmf0_select" style="">
+				<tr>
+					<td width="29" bgcolor="#D8E3F1" align="center">&nbsp;</td>
+					<td width="41%" align="center" bgcolor="#ECF2F9">
+					<font color="#34597D"><b>⁄‰Ê«‰ «·—”«·…</b></font></td>
+					<td id="m4" width="12%" align="center" bgcolor="#D8E3F1">
+					<font color="#34597D"><b>$tofrom</b></font></td>
+					<td id="m4" width="263" align="center" bgcolor="#ECF2F9">
+					<font color="#34597D"><b> «—ÌŒ «·≈—”«·</b></font></td>
+					<td align="center" style="padding: 0px" width="2%" bgcolor="#D8E3F1">
+					</td>
+				</tr>
+				<tr>
+					<td bgcolor="#E6E3DF" height="3" colspan="5"></td>
+				</tr>
+				$pm_msg_list
+			<tr>
+				<td align="right" colspan="5" background="themes/$apt->themepath/catbg2.gif">
+				<div class="">
+					<font color="#FFFFFF"><b>ŒÌ«—«  «·—”«∆·:</b></font>
+					<select name="do">
+					<option value="">≈Œ — „‰ «·ﬁ«∆„…</option>
+					<option value="save">Õ›Ÿ</option>
+					<option value="del">Õ–›</option>
+					<option value="export"> ’œÌ—</option>
+					<option value="read">≈Ã⁄·Â« „ﬁ—Ê¡…</option>
+					<option value="unread">≈Ã⁄·Â« €Ì— „ﬁ—Ê¡…</option>
+					</select> <input type="submit" class="" value=" ‰›Ì–" />
+					<input type="button" name="CheckAll" value=" ÕœÌœ «·ﬂ·" onclick="checkAll(document.admin)">
+					<input type="button" name="UnCheckAll" value="«·€«¡ «· ÕœÌœ" onclick="uncheckAll(document.admin)">
+					<input type="hidden" name="box" value="$box"></div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<br>
+</form>
+<a href="pm.php?action=sendmsg">
+<img border="0" src="themes/$apt->themepath/newpm.gif"></a><br />
+<!-- forumjump -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+	<tr valign="top">
+		<td width="100%" rowspan="2">
+		<table cellpadding="2" border="0" style="border-collapse: collapse" width="40%">
+			<tr>
+				<td>
+				<p align="center">
+				<img border="0" src="themes/$apt->themepath/pm_unread.gif" width="18" height="12"></p>
+				</td>
+				<td><font color="#34597D"><b>&nbsp; —”«·… €Ì— „ﬁ—Ê¡…</b></font></td>
+			</tr>
+			<tr>
+				<td>
+				<p align="center">
+				<img border="0" src="themes/$apt->themepath/pm_read.gif" width="18" height="17"></p>
+				</td>
+				<td><font color="#34597D"><b>&nbsp; —”«·… „ﬁ—Ê¡…</b></font></td>
+			</tr>
+			<tr>
+				<td>
+				<p align="center">
+				<img border="0" src="themes/$apt->themepath/pm_reply.gif" width="18" height="17"></p>
+				</td>
+				<td><font color="#34597D"><b>&nbsp; —”«·…  „ «·—œ ⁄·ÌÂ« </b>
+				</font></td>
+			</tr>
+			<tr>
+				<td>
+				<p align="center">
+				<img border="0" src="themes/$apt->themepath/pm_forward.gif" width="18" height="17"></p>
+				</td>
+				<td><font color="#34597D"><b>&nbsp; —”«·… „ÕÊ·…</b></font></td>
+			</tr>
+		</table>
+		</td>
+		<td class="" nowrap="nowrap">&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="bottom">
+		<div class="" style="text-align: left; white-space: nowrap">
+			<form action="pm.php" method="get">
+				<strong>«·≈‰ ﬁ«· «·Ï:</strong><br />
+				<select name="box" onchange="this.form.submit();">
+				<option value="index" selected="selected">≈Œ — „‰ «·ﬁ«∆„…
+				</option>
+				<option value="1">’‰œÊﬁ «·Ê«—œ</option>
+				<option value="2">’‰œÊﬁ «·’«œ—</option>
+				<option value="3">’‰œÊﬁ «·Õ›Ÿ</option>
+				</select> <input type="submit" class="" value="≈–Â»" />
+			</form>
+		</div>
+		</td>
+	</tr>
+</table>
+|--|member_info<=>6<=><div align="center">
+	<center>
+	<table border="0" width="90%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="100%">
+			<div align="center">
+				<table border="0" width="100%">
+					<tr>
+						<td width="50%" align="center" background="themes/$apt->themepath/catbg2.gif">
+						<font class="fontht">«” ⁄—«÷ »Ì‰«  «·„” Œœ„ : <b>$username
+						</font></b></td>
+					</tr>
+				</table>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%">
+			<div align="center">
+				<table border="0" width="100%" cellspacing="4">
+					<tr>
+						<td width="27%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt"> «—ÌŒ «· ”ÃÌ·</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$date</font></td>
+					</tr>
+					<tr>
+						<td width="27%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">«·Ê’›</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$usertitle</font></td>
+					</tr>
+					<tr>
+						<td width="27%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">«·»—Ìœ</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$email </font></td>
+					</tr>
+					<tr>
+						<td width="27%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">«·„Êﬁ⁄</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$homepage </font></td>
+					</tr>
+					<tr>
+						<td width="27%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">Õ”«» „—«”·…</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$showemail </font></td>
+					</tr>
+					<tr>
+						<td width="27%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">⁄œœ Ã„Ì⁄ «·„‘«—ﬂ« </font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$allposts ( $newsPosts $forumPosts 
+						)</font></td>
+					</tr>
+					<tr>
+						<td width="27%" align="right" bgcolor="#E7F1FE">
+						<font class="fontablt">«·’Ê—… «·—„“Ì…</font></td>
+						<td width="73%" align="right" bgcolor="#EFEFEF">
+						<font class="fontablt">$avatar_pic</font></td>
+					</tr>
+				</table>
+			</div>
+			</td>
+		</tr>
+	</table>
+	</center></div>
+|--|del_msg<=>1<=><body bgcolor="#F1F1F1">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+	<center>
+	<table border="0" width="80%" bgcolor="#FFFFFF">
+		<tr>
+			<form method="POST" action="?action=del">
+				<input type="hidden" name="cat_id" value="$cat_id">
+				<input type="hidden" name="idp" value="$idp">
+				<input type="hidden" name="idc" value="$idc">
+				<td width="100%" align="center"><br>
+				<b><font class="fontablt">Â· «‰  „ «ﬂœ „‰ —€» ﬂ ›Ì Õ–› «·„‘«—ﬂ… 
+				ø</font></b><br>
+				<input class="button" type="submit" value="‰⁄„" name="yes">
+				<input class="button" type="button" value="«·€«¡ «·«„—" name="B2" dir="rtl" onclick="javascript:history.go(-1);">
+				<br>
+				</td>
+			</form>
+		</tr>
+	</table>
+	</center></div>
+|--|users_Login<=>3<=><form method="post" action="members.php?action=login">
+	<font face="tahoma" size="2">√œŒ· «·√”„ Ê ﬂ·„… «·”— :</font>
+	<input type="textbox" name="username" size="13">
+	<input type="password" name="userpass" size="13">
+	<input class="button" type="submit" value="œŒÊ·">
+	<a href="javascript:rafiawin('popup.php?action=remind',250,350)">«—”«· «·»Ì«‰« </a>
+</form>
+|--|forum_cat_tools<=>3<=><table border="0" width="96%" cellspacing="1">
+	<tr>
+		<td width="100%" align="right">
+		<div align="center">
+			<table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td width="50%" align="right">$Jump</td>
+					<center>
+					<td width="50%" align="right">
+					<a href="$PHP_SELF?action=add&amp;cat_id=$cat_id">
+					<img border="0" src="themes/$apt->themepath/$cat_img" align="left"></a></td>
+				</tr>
+			</table>
+			</center></div>
+		</td>
+	</tr>
+</table>
+|--|guestbook_tools<=>1<=><table border="0" width="90%" cellspacing="1">
+	<tr>
+		<td width="100%" align="right">
+		<div align="center">
+			<table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td width="50%" align="right">$pagenum</td>
+					<center>
+					<td width="50%" align="right">
+					<a href="$PHP_SELF?action=add">
+					<img border="0" src="themes/$apt->themepath/sign.gif" align="left"></a></td>
+				</tr>
+			</table>
+			</center></div>
+		</td>
+	</tr>
+</table>
+<br>
+|--|download_comment_table<=>4<=><table border="1" cellpadding="3" cellspacing="0" style="border-collapse: collapse" width="95%" bordercolor="#C0C0C0">
+	<tr>
+		<td valign="top" bgcolor="#F1F1F1" nowrap=""><span class="fontablt">«·ﬂ« »:
+		<a href="members.php?action=info&amp;userid=$userid">$username</a> <br>
+		$usertitle <a name="comment$id"></a><br>
+		$userimgtitle <br>
+		«· ”ÃÌ· : $datetime <br>
+		·„‘«—ﬂ«  : $allposts <br>
+		<a href="mail.php?action=sendtousers&amp;userid=$userid">
+		<img border="0" src="themes/$apt->themepath/email.gif" alt="„—«”·…" width="16" height="16"></a>
+		<a href="$homepage" target="_blank">
+		<img border="0" src="themes/$apt->themepath/home.gif" alt="„Êﬁ⁄" width="16" height="16">
+		</a></span><br>
+		</td>
+		<td width="100%" valign="top">
+		<p dir="rtl"><span class="normal">$title </span><font class="fontablt">
+		<font color="#808080">[ «—ÌŒ «·„‘«—ﬂ… : $date ]<br>
+		</font>$comment </font></p>
+		<p><br>
+		$upload_file <br>
+		<font color="#C0C0C0">------------------</font><br>
+		<b><font class="fontablt">$signature</font></b> <br>
+		</p>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" bgcolor="#FFFFFF" nowrap=""></td>
+		<td width="100%" valign="top">
+		<a href="$PHP_SELF?action=addcomment&amp;id=$postid" ec="$id&quot;">
+		<img border="0" src="themes/$apt->themepath/quote.gif" align="left"></a><a href="$PHP_SELF?action=editcomment&amp;id=$id"><img border="0" src="themes/$apt->themepath/edit.gif" align="left"></a><a href="pm.php?action=sendmsg&amp;id=$userid"><img border="0" src="themes/$apt->themepath/pm.gif"></a></td>
+	</tr>
+</table>
+<br>
+|--|news_comment_table<=>2<=><table border="1" cellpadding="3" cellspacing="0" style="border-collapse: collapse" width="95%" bordercolor="#E4E4E4">
+	<tr>
+		<td valign="top" bgcolor="#F1F1F1" nowrap><span class="fontablt">«·ﬂ« »:
+		<a href="members.php?action=info&userid=$userid">$username</a><br>
+		&nbsp;<a href="mail.php?action=sendtousers&userid=$userid"><img border="0" src="images/mail.gif" alt="„—«”·…"></a>
+		<a href="members.php?action=homepage&userid=$userid" target="_blank">
+		<img border="0" src="images/home.gif" alt="„Êﬁ⁄"></a>
+		<a href="pm.php?action=sendmsg&id=$userid">
+		<img border="0" src="images/pmid.gif" alt="—”«·… Œ«’…"></a>
+		</span>
+		</td>
+		<td width="100%" valign="top"><span class="normal">$title </span>
+		<font class="fontablt"><font color="#808080">[» «—ÌŒ : $date ]</font></font><span class="fontablt"><a name="comment$id"></a></span></td>
+	</tr>
+	<tr>
+		<td valign="top" nowrap colspan="2">
+		<div align="center">
+			<table border="0" cellpadding="2" style="border-collapse: collapse" width="100%" cellspacing="4">
+				<tr>
+					<td>
+					<p dir="rtl" align="right"><font class="fontablt">$comment
+					</font><br>
+					$upload_file </p>
+<br>-------------------------------------<br>$signature
+					</td>
+				</tr>
+			</table>
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" bgcolor="#FFFFFF" nowrap colspan="2">
+		<a href="$PHP_SELF?action=addcomment&id=$postid&qc=$id"><img border="0" src="themes/$apt->themepath/quote.gif" align="left"></a>
+$Cedit_link
+</td>
+	</tr>
+</table>
+<br>
+|--|news_addcomment<=>2<=><script language="javascript">function checkForm(){document.rafia.spam.value= 'commenttnotspam';}</script>
+<form action="news.php?action=insertcomment" onsubmit="return checkForm(this);" method="post" name="rafia" enctype="multipart/form-data">
+	<table border="0" width="90%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td align="right" class="forum_header">≈÷«›…  ⁄·Ìﬁ </td>
+		</tr>
+		<tr>
+			<td>
+			<table border="0" width="100%" id="table13" cellpadding="2" class="fontablt">
+				<script language="JavaScript">
+
+        function proces()
+        {
+            value = document.rafia.post.value;
+            len = $countpost - value.length;
+            if (len < 0 )
+            {
+                document.rafia.post.value = document.rafia.post.value.substring(0,$countpost);
+                document.rafia.left.value = 0;
+            }
+            else
+            {
+                document.rafia.left.value = len
+            }
+            document.rafia.remain.value = len;
+            //alert(' »ﬁÏ ·ﬂ : ' + len  );
+        }
+        </script>
+				<tr>
+					$namef
+				</tr>
+				<tr>
+					<td align="right" nowrap class="info_bar">«·„Ê÷Ê⁄ : </td>
+					<td align="right" width="100%">
+					<input type="text" name="title" value size="30" class="text_box">
+					</td>
+				</tr>
+				<tr>
+					<td align="right" nowrap class="info_bar" valign="top">«·‰’ 
+					: <font color="#FF0000">*</font> <br>
+&nbsp;<div align="center">
+$smiles
+					</div>
+					<br>
+					ÿÊ· «·‰’ ÌÃ» «‰ ÌﬂÊ‰ <br>
+					√ﬁ· „‰ : $countpost Õ—›<br>
+					<center><a href="#count" onmouseover="return proces()">≈Œ »«— 
+					«·ÿÊ·</a><a neme="count"><br>
+					 »ﬁÏ ·ﬂ :
+					<input size="5" name="remain" type="text" value="$countpost">
+					<center></center></a></center></td>
+					<td align="right" width="100%">
+					<table cellpadding="0" cellspacing="0" border="0">
+						<tr valign="bottom">
+							<td colspan="2">
+
+</td>
+						</tr>
+						<tr valign="top">
+							<td class="controlbar"></td>
+						</tr>
+					</table>
+					$form_code<br>
+					<textarea onmouseover="return proces()" onbeforeeditfocus="return proces()" onmouseout="return proces()" name="post" rows="15" cols="70" id="post" wrap="virtual">$post_text</textarea><input type="hidden" name="left" value="$countpost" size="7" class="text_box"></td>
+				</tr>
+				<tr>
+					<td align="right" nowrap class="info_bar">«· »·Ì€ »«·»—Ìœ «·≈·ﬂ —Ê‰Ì
+					</td>
+					<td align="right" width="100%">
+					<input type="radio" name="H" value="1"> ‰⁄„
+					<input type="radio" name="H" value="0" checked> ·« </td>
+				</tr>
+				<tr>
+					<td align="right" nowrap class="info_bar"> ›⁄Ì·  ÊﬁÌ⁄ﬂ «·‘Œ’Ì
+					</td>
+					<td align="right" width="100%">
+					<input type="radio" name="usesig" value="1" checked> ‰⁄„&nbsp;
+					<input type="radio" name="usesig" value="0"> ·«</td>
+				</tr>
+$formf
+				<input type="hidden" name="cat_id" value="1">
+				<input type="hidden" name="post_id" value="99">
+				<input type="hidden" name="titlepost" value="≈÷«›… Œ»—">
+				<input type="hidden" name="action" value="insertcomment">
+				<input type="hidden" name="spam" value="1">
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+<input border="0" src="themes/$apt->themepath/replay.gif" name="dosubmit" width="98" height="24" type="image">
+</td>
+		</tr>
+	</table>
+</form>
+|--|forum_list_pagenum<=>3<=><table border="0" cellspacing="0" style="border-collapse: collapse; border-width: 0" bordercolor="#111111" width="96%" id="AutoNumber7">
+	<tr>
+		<td width="100%" valign="bottom">$pagenum </td>
+	</tr>
+</table>
+|--|forum_list_top<=>3<=><table border="0" width="95%" id="table11" cellpadding="2">
+	<tr>
+		<td class="small">$dscin</td>
+		<td align="left"><a href="$PHP_SELF?action=add&amp;cat_id=$cat_id">
+		<img border="0" src="themes/$apt->themepath/$cat_img" width="98" height="24"></a></td>
+	</tr>
+</table>
+|--|forum_list_middle<=>3<=><table border="1" width="95%" id="table4" cellspacing="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#DAE9FE">
+	<tr>
+		<td class="forum_header">&nbsp;</td>
+		<td class="forum_header">&nbsp;</td>
+		<td width="100%" class="forum_header">
+		<img border="0" src="themes/$apt->themepath/topics.gif"></td>
+		<td class="forum_header" nowrap="">
+		<img border="0" src="themes/$apt->themepath/rep.gif"></td>
+		<td class="forum_header">
+		<img border="0" src="themes/$apt->themepath/writer.gif"></td>
+		<td class="forum_header">
+		<img border="0" src="themes/$apt->themepath/visitor.gif"></td>
+		<td class="forum_header" width="200">
+		<img border="0" src="themes/$apt->themepath/last.gif"></td>
+	</tr>
+	$forum_topic_list
+	<tr>
+		<td class="forum_header" colspan="7" style="text-align: left">
+		<form method="get">
+			<span class="small"><input type="hidden" name="action" value="list">
+			<input type="hidden" name="cat_id" value="$cat_id"> — Ì» Õ”»
+			<select name="orderby" size="1">
+			<option value="date" selected=""> «—ÌŒ «·≈÷«›…</option>
+			<option value="reader">⁄œœ «·“Ê«—</option>
+			<option value="comment">⁄œœ «· ⁄·Ìﬁ« </option>
+			</select><select name="dir" size="1">
+			<option value="ASC" selected=""> ’«⁄œÌ</option>
+			<option value="DESC"> ‰«“·Ì</option>
+			</select> <input type="submit" value="≈–Â»" class="button"> </span>
+		</form>
+		</td>
+	</tr>
+	</form>
+</table>
+|--|news_cat_tools<=>2<=><center>
+<table border="0" cellspacing="1" width="95%">
+	<tr>
+		<td width="100%">
+		<table border="0" cellspacing="0" cellpadding="0" width="100%">
+			<tr>
+				<td>$Jump</td>
+				<td align="left">$add_new_post</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+</center>
+|--|download_list<=>4<=><div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tr>
+			<td bgcolor="#516A93">
+			<p align="right">&nbsp;&nbsp;
+			<img border="0" src="themes/$apt->themepath/weblinkenter.gif" width="17" height="16">
+			<font class="fontablt2d">&nbsp;<font size="4" color="#FFFFFF">$title</font></font><font size="4" color="#FFFFFF">
+			</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%">
+			<table border="0" cellpadding="2" style="border-collapse: collapse" width="100%" id="AutoNumber1" class="info_bar">
+				<tr>
+					<td width="100%" bgcolor="#EAF4FB">
+					<p align="right">
+					<font size="2" face="Tahoma" color="#000080">«·«’Ê« : $ratings&nbsp;
+					</font></p>
+					</td>
+					<td nowrap="" align="left" colspan="3">$rating_avg</td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+	</table>
+</div>
+<div align="center">
+	<table border="0" width="95%" bgcolor="#ffffff" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="32%" valign="top" bgcolor="#F7FBFD">
+			<div align="center">
+				<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" cellspacing="5">
+					<tr>
+						<td>
+						<p align="right">
+						<font color="#800000" size="2" face="Tahoma">
+						<font class="fontablt">„—«  «· Õ„Ì· : $clicks</font> <br>
+						<font class="fontablt">«·ÕÃ„ : $size</font><br>
+						<font class="fontablt">«·—œÊœ : $c_comment </font><br>
+						<font class="fontablt">»Ê«”ÿ… : $name </font></font></p>
+						</td>
+					</tr>
+				</table>
+			</div>
+			</td>
+			<td height="100%" valign="top">
+			<div align="center">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr>
+						<td valign="top">
+						<div align="center">
+							<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" cellspacing="5">
+								<tr>
+									<td>
+									<p align="right"><font face="Tahoma">
+									<font class="fontablt"><font size="2">$post_head</font></font><font size="2">
+									</font></font></p>
+									</td>
+								</tr>
+							</table>
+						</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="top"><br>
+						<p align="left">$download_images<br>
+						$exp_show</p>
+						</td>
+					</tr>
+				</table>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td width="32%" valign="top" bgcolor="#F7FBFD">&nbsp;</td>
+			<td height="100%" valign="top" bgcolor="#F7F7F7">
+			<div align="center">
+				<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%">
+					<tr>
+						<td>
+						<p align="right"><font face="Tahoma">
+						<font size="2" color="#800000">&nbsp;</font><span lang="ar-iq"><font size="2"><font color="#800000">
+						<img border="0" src="themes/$apt->themepath/link_break.png" width="12" height="12">
+						</font>
+						<a href="javascript:rafiawin('popup.php?action=alert&id=$id',200,400)">
+						<font color="#800000">
+						<span style="text-decoration: none">—«»ÿ „⁄ÿ·</span></font></a><font color="#800000">&nbsp; 
+						|&nbsp;
+						<img border="0" src="themes/$apt->themepath/chart_bar.png" width="12" height="12">
+						</font>
+						<a href="javascript:rafiawin('popup.php?action=rated&id=$id',200,400)">
+						<font color="#800000">
+						<span style="text-decoration: none"> ﬁÌÌ„</span></font></a><font color="#800000">&nbsp; 
+						|&nbsp;
+						<img border="0" src="themes/$apt->themepath/page_white_edit.png" width="12" height="12">
+						</font></font>
+						<a href="$PHP_SELF?action=edit&amp;id=$id">
+						<font size="2" color="#800000">
+						<span style="text-decoration: none"> Õ—Ì‹‹—</span></font></a></span></font></p>
+						</td>
+					</tr>
+				</table>
+			</div>
+			</td>
+		</tr>
+	</table>
+</div>
+<hr color="#C0C0C0" width="95%" size="1">
+|--|users_tools<=>3<=><a href="members.php?action=cp">«· ‹Õﬂ‹„</font></a> | <a href="pm.php">«·—”«∆· «·Œ«’… 
+: ($pmumrows )</font></a> | <a href="members.php?action=logout"> ”ÃÌ· «·Œ—ÊÃ</font></a> 
+$isadmin
+|--|blocm<=>7<=><!-- BLOCK START --><hr noshade="" color="#000000" size="1">
+<table width="100%" bgcolor="789C70" border="0" cellpadding="1" cellspacing="0">
+	<tr>
+		<td width="100%" valign="top" align="center"><font class="fontht">{block_head}
+		</font></td>
+	</tr>
+</table>
+<hr noshade="" color="#000000" size="1">
+<table width="100%" border="0" cellpadding="4" cellspacing="0">
+	<tr>
+		<td width="100%" align="right">{block_center} </td>
+	</tr>
+</table>
+<!-- BLOCK END -->
+|--|table_cat_module<=>1<=><table border="0" width="96%" cellspacing="0">
+	<tr>
+		<td width="100%" valign="bottom">
+		<p align="right" class="catlinkfont"><font size="4">
+		<img height="21" src="themes/$themepath/navbits_start.gif" width="21" align="absMiddle" border="0">
+		<a href="index.php">$sitetitle</a> <br>
+		<img height="15" src="themes/$themepath/icon_bar.gif" width="15" align="absMiddle" border="0">
+		<img height="21" src="themes/$themepath/navbits_finallink.gif" width="21" align="absMiddle" border="0">$modulename
+		</font></p>
+		</td>
+	</tr>
+</table>
+|--|download_cat_tools<=>4<=><table border="0" width="90%" cellspacing="1">
+	<tr>
+		<td width="100%" align="right">
+		<div align="center">
+			<table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td width="50%" align="right">$Jump</td>
+					<center>
+					<td width="50%" align="right">
+					<a href="$PHP_SELF?action=add&amp;cat_id=$cat_id">
+					<img border="0" src="themes/$apt->themepath/$cat_img" align="left"></a></td>
+				</tr>
+			</table>
+			</center></div>
+		</td>
+	</tr>
+</table>
+|--|table_cat_link<=>1<=><br>
+<table border="0" width="96%" cellspacing="0">
+	<tr>
+		<td width="100%" valign="bottom">
+		<p align="right" class="catlinkfont"><font size="4">
+		<img border="0" src="themes/$themepath/navbits_start.gif" width="21" height="21" align="middle">
+		<a href="index.php">$sitetitle</a> ª <a href="$self">$part</a> ª $CatTree
+		</font></p>
+		</td>
+	</tr>
+</table>
+<br>
+|--|forum_main_bottom<=>3<=><table border="0" width="95%" id="table8" cellspacing="1" cellpadding="0">
+	<tr>
+		<td class="forum_header" style="text-align: right" colspan="2">≈Õ’«∆Ì«  
+		«·„‰ œÏ</td>
+	</tr>
+	<tr>
+		<td class="forum_alt1" width="30" bgcolor="#EEEEEE">
+		<img border="0" src="themes/$apt->themepath/stats.gif" width="30" height="30"></td>
+		<td align="right" class="forum_alt1" width="100%"><span class="small">⁄œœ 
+		«·„Ê«÷Ì⁄ ( $fnumrows ) - ⁄œœ «·—œÊœ ( $fnumcomment )</span></td>
+	</tr>
+</table>
+<table border="0" width="95%" id="table8" cellspacing="1" cellpadding="0">
+	<tr>
+		<td class="forum_header" style="text-align: right" colspan="2">&nbsp;ï
+		<a href="online.php"><font color="#FFFFFF">«·„ Ê«ÃœÊ‰ Õ«·Ì«</font></a>: 
+		´ $online ª <span class="small">&nbsp;- „‰ «·÷ÌÊ›: ´ $not_user ª - „‰ «·√⁄÷«¡: 
+		´ $user_online ª </span></td>
+	</tr>
+	<tr>
+		<td class="forum_alt1" width="30" bgcolor="#EEEEEE">
+		<img border="0" src="themes/$apt->themepath/whos_online.gif" width="30" height="30"></td>
+		<td align="right" class="small1" width="100%"><span class="small1">&nbsp; 
+		$users_online</span></td>
+	</tr>
+</table>
+<table border="0" width="95%" id="table8" cellspacing="1" cellpadding="0">
+	<tr>
+		<td class="forum_header" style="text-align: right" colspan="2">&nbsp;ï
+		<font color="#FFFFFF">«·«⁄÷«¡ «·–Ì‰  Ê«ÃœÊ« «·ÌÊ„</font>: ´ $online_today 
+		ª</td>
+	</tr>
+	<tr>
+		<td class="forum_alt1" width="30" bgcolor="#EEEEEE">
+		<img border="0" src="themes/$apt->themepath/whos_online.gif" width="30" height="30"></td>
+		<td align="right" class="forum_alt1" width="100%"><span class="small">&nbsp; 
+		$users_today</span></td>
+	</tr>
+</table>
+<br>
+<table border="0" id="table9" cellspacing="1" cellpadding="0" class="forum_alt2">
+	<tr>
+		<td><img border="0" src="themes/$apt->themepath/on.gif" width="21" height="19"></td>
+		<td class="small">„‘«—ﬂ«  ÃœÌœ…&nbsp;&nbsp;&nbsp; </td>
+		<td><img border="0" src="themes/$apt->themepath/off.gif" width="21" height="19"></td>
+		<td class="small">·« ÌÊÃœ „‘«—ﬂ«  ÃœÌœ…&nbsp;&nbsp;&nbsp; </td>
+		<td><img border="0" src="themes/$apt->themepath/lock.gif" width="21" height="19"></td>
+		<td class="small">ﬁ”„ „€·ﬁ</td>
+	</tr>
+</table>
+<br>
+|--|forum_comment_table<=>3<=><table border="0" width="95%" id="table4" cellspacing="1" cellpadding="0">
+	<tr>
+		<td width="100%" class="forum_alt3">
+		<table border="0" width="100%" id="table16" cellspacing="5" cellpadding="3">
+			<tr>
+				<td width="20%" class="forum_alt15" valign="top" bgcolor="#DFE9F4" rowspan="2">
+				<div align="center">
+					<table border="0" cellpadding="0" style="border-collapse: collapse" width="140" cellspacing="3">
+						<tr>
+							<td>
+							<p align="center"><font face="Tahoma">
+							<font size="2" color="#800000">&nbsp; «·ﬂ« » :
+							</font>
+							<a href="members.php?action=info&amp;userid=$userid">
+							<font size="2" color="#800000">$username</font></a></span></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<div align="center">
+								<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" bordercolor="#7394B6" cellspacing="4">
+									<tr>
+										<td>
+										<p align="center">
+										<font face="Tahoma" size="2">
+										<span class="small">$grouptitle<br>$usertitle</span></font></p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+										<div align="center">
+											<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" cellspacing="2">
+												<tr>
+													<td>
+													<p align="center">
+													<span class="small">
+													<font size="2" face="Tahoma">
+													$userimgtitle</font></span></p>
+													</td>
+												</tr>
+											</table>
+										</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+										<div align="center">
+	
+$avatar_pic<br>$userstatus
+
+</div>
+										</td>
+									</tr>
+								</table>
+							</div>
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="#DFE9F4">
+							<div align="center">
+								<table border="1" cellpadding="0" style="border-collapse: collapse" width="100%" bordercolor="#7394B6">
+									<tr>
+										<td bgcolor="#F5F5F5">
+										<p align="center"><span class="small">
+										<font size="2" face="Tahoma">«·„‘«—ﬂ«  : 
+										$allposts</font></span></p>
+										</td>
+									</tr>
+								</table>
+							</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<div align="center">
+								<table border="1" cellpadding="0" style="border-collapse: collapse" width="100%" bordercolor="#7394B6">
+									<tr>
+										<td bgcolor="#F5F5F5">
+										<p align="center">
+										<font face="Tahoma" size="2">
+										<span class="small"><span lang="ar-iq"> √—ÌŒ</span> 
+										«· ”ÃÌ·<br>
+&nbsp;$datetime</span></font></p>
+										</td>
+									</tr>
+								</table>
+							</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<p align="center">&nbsp;</p>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<p align="center"><span class="small">
+				<a href="mail.php?action=sendtousers&amp;userid=$userid">
+				<img border="0" src="themes/$apt->themepath/email.gif" alt="„—«”·…">
+				</a><a href="$homepage" target="_blank">
+				<img border="0" src="themes/$apt->themepath/home.gif" alt="«·„Êﬁ⁄ «·‘Œ’Ì"></a>
+<br>	
+<a href="mail.php?action=report&id=$thread_id&comment=$id" title="√»·€ ⁄‰ Â–Â «·„‘«—ﬂ…"><img border="0" src="images/report.gif"></a>				</span></p>
+				
+				</td>
+				<td width="80%" valign="top" class="normal" colspan="2">
+				<span class="small"><a name="comment$id"></a>
+				<font color="#808080">Õ—— ›Ì $date   ||   —ﬁ„ «·„‘«—ﬂ… : <A href=#comment$id name=comment$id>$id</A>
+				</font></span><hr color="#7394B6" size="1">
+				<p align="right"> <b>$title</b><br>$comment <br>
+				<br>
+				$upload_file
+&nbsp;</p>
+				<div align="center">
+					<table border="0" cellpadding="0" style="border-collapse: collapse" width="90%">
+						<tr>
+							<td><fieldset style="padding: 2">
+							<legend> ÊﬁÌ⁄ ( <span class="small">
+							<a href="members.php?action=info&amp;userid=$userid">
+							$username</a></span> )</legend>
+							<div align="center">
+								<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" cellspacing="3">
+									<tr>
+										<td><center>$signature</center></td>
+									</tr>
+								</table>
+							</div>
+							</fieldset></td>
+						</tr>
+					</table>
+					<p>&nbsp;</p>
+				</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="40%" valign="top" class="small"></td>
+				<td width="40%" valign="top" align="left">
+				<a href="pm.php?action=sendmsg&amp;id=$userid">
+				<img border="0" src="themes/$apt->themepath/pm.gif" width="93" height="24">
+				</a>
+$edit_post
+				<a href="$PHP_SELF?action=addcomment&amp;id=$postid&amp;qc=$id">
+				<img border="0" src="themes/$apt->themepath/quote.gif" width="67" height="24"></a>
+				<a href="#top">
+				<img border="0" src="themes/$apt->themepath/top.gif" width="24" height="24"></a></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+|--|news_cat<=>2<=><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td align="center" width="100%" style="padding: 3"> 
+<a href="news.php?action=list&cat_id=$id">$cat_image</a></td>
+	</tr>
+	<tr>
+		<td width="100%" style="padding: 3"> <font class="fontht">
+		<img border="0" src="images/b1.gif" align="middle" width="8" height="8">
+		<a href="news.php?action=list&amp;cat_id=$id">$title</a></font>
+		<span class="fontablt">
+		<img border="0" src="images/topics.gif" align="middle" alt="⁄œœ «·„Ê«÷Ì⁄">
+		<font color="#C0C0C0">[$numrows]
+		<img border="0" src="images/replys.gif" alt="⁄œœ «·—œÊœ" align="absmiddle"> 
+		[$numcomment]</font></span></td>
+	</tr>
+	<tr>
+		<td width="100%" class="fontablt"><font color="#808080">$dsc</font></td>
+	</tr>
+</table>
+|--|popup_msg<=>1<=><body bgcolor="#FFFFFF">
+
+<br>
+<div align="center">
+	<center>
+	<table border="0" width="80%" bgcolor="#F1F1F1">
+		<tr>
+			<td width="100%" align="center"><br>
+			<font class="fontablt">$msg<br>
+			<br>
+			</font></td>
+		</tr>
+	</table>
+	</center></div>
+|--|Login_main<=>1<=><body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
+
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="$themewidth" height="100%" bgcolor="#FFFFFF">
+	<tr>
+		<!-- RightStart -->
+		<!-- RightEnd -->
+		<td width="100%" valign="top" align="center" style="padding: 5px">
+		<font class="fontablt"><br>
+		<br>
+		<br>
+		<br>
+		<br>
+&nbsp;<table border="1" width="90%" bordercolor="#F1F1F1" bgcolor="#FFFFFF" cellpadding="4" cellspacing="0" id="table5">
+			<tr>
+				<td width="100%" align="center">
+				<font class="fontablt" face="Tahoma" size="2">·« Ì”„Õ ·ﬂ »œŒÊ· Â–Â 
+				«·„‰ÿﬁ… —»„« ÌÃ» ⁄·Ìﬂ  ”ÃÌ· «·œŒÊ· «Ê ﬁœ  ﬂÊ‰ „‰ÿﬁ… «œ«—Ì… ·«Ì”„Õ 
+				·œŒÊ·Â« ≈·Ï „‰ ’—Õ ·Â «·„‘—› «·⁄«„ »–·ﬂ </font></td>
+			</tr>
+		</table>
+		<br>
+		<!-- BLOCK START -->
+		<table width="350" border="0" cellspacing="0" id="table6">
+			<tr>
+				<td width="100%" bgcolor="#34597D" style="padding-top: 3; padding-bottom: 3" class="forum_header">
+				<p align="center"><font face="Tahoma" size="2" color="#FFFFFF"> ”ÃÌ· 
+				«·œŒÊ· </font></p>
+				</td>
+			</tr>
+		</table>
+		<table width="100%" border="0" cellpadding="4" cellspacing="0" id="table7">
+			<tr>
+				<td width="100%"><center>
+				<table border="0" width="350" id="table8" cellpadding="0" cellspacing="0">
+					<tr>
+						<td width="100%">
+						<form method="post" action="members.php?action=login">
+						</td>
+						</tr>
+						<tr>
+							<td bgcolor="#F2F2F2" align="center">
+							<font face="tahoma" size="2">«·„” Œœ„</font></td>
+						</tr>
+						<tr>
+							<td bgcolor="#F2F2F2" align="center">
+							<input type="textbox" name="username" size="13">
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="#F2F2F2" align="center">
+							<font face="tahoma" size="2">ﬂ·„… «·„—Ê—</font></td>
+						</tr>
+						<tr>
+							<td bgcolor="#F2F2F2" align="center">
+							<input type="password" name="userpass" size="13">
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="#F2F2F2" align="center">
+							<input type="submit" value="     œŒÊ·     ">&nbsp;&nbsp;&nbsp;&nbsp;
+							<a href="javascript:rafiawin('popup.php?action=remind',250,350)">
+							<font face="tahoma" size="2">≈—”«· «·»Ì‰« ø</font></a>
+							</td>
+						</tr>
+					</form>
+					</td>
+					</tr>
+				</table>
+				</center></td>
+			</tr>
+		</table>
+		</font></td>
+		<!-- LeftStart -->
+		<!-- LeftEnd -->
+	</tr>
+</table>
+</center>
+|--|post_tools<=>1<=><table border="0" width="95%" id="table11" cellpadding="2">
+	<tr>
+		<td class="small">$pagenum</td>
+		<td align="left">$add_new_post $add_new_reply </td>
+	</tr>
+</table>
+|--|download_topic<=>4<=><body bgcolor="#DEE9ED" topmargin="0" leftmargin="0">
+
+$pagehd
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; border-width: 0" bordercolor="111111" width="100%" id="AutoNumber7" bgcolor="$bgcolor2">
+	<tr>
+		<td width="20%" valign="top" align="center" bgcolor="$bgcolor1">$right_menu
+		<br>
+		</td>
+		<td width="60%" valign="top" align="center"><br>
+		$next_old $next_new <br>
+		$table_cat_link $download_table <br>
+		$post_tools $admin_Jump $comment_table <br>
+		$post_tools2 $list_Jump <br>
+		</td>
+		<td width="20%" valign="top" align="center" bgcolor="$bgcolor1">$left_menu
+		</td>
+	</tr>
+</table>
+</center></div>
+$pageft
+|--|news_list_pagenum<=>2<=><br>
+<table border="0" cellpadding="4" cellspacing="0" width="95%">
+	<tr>
+		<td width="50%" valign="bottom">$pagenum </td>
+		<td width="50%" align="right">$add_new_post</td>
+	</tr>
+</table>
+|--|search_form<=>1<=><script language="JavaScript">
+function showop(elem) {
+  var val = elem.options[elem.selectedIndex].value;
+document.getElementById('rnews').style.display='none';
+document.getElementById('rforum').style.display='none';  document.getElementById('rlinks').style.display='none';
+document.getElementById('rdownload').style.display='none';
+document.getElementById("rforumuser").style.display="none";
+  if (val == 'rafia_news')
+    { 
+    document.getElementById('rnews').style.display="block";
+document.getElementById("rforumuser").style.display="inline";
+}
+    if (val == 'rafia_forum')
+    { 
+    document.getElementById('rforum').style.display="block";
+    document.getElementById("rforumuser").style.display="inline";
+  }
+    if (val == 'rafia_links')
+    { 
+    document.getElementById('rlinks').style.display="block";
+  }
+    if (val == 'rafia_download')
+    { 
+    document.getElementById('rdownload').style.display="block";
+  }
+}
+</script>
+<br>
+
+
+
+<form name="search_form" action="search.php" method="post">
+	<center>
+	<table cellpadding="0" cellspacing="0" width="90%" id="table1">
+		<tr>
+			<td width="2%"  class="forum_header2">
+</td>
+			<td width="100%" class="forum_header2">
+			<p align="center"><font size="4">„Õ—ﬂ «·»ÕÀ
+			</font></p>
+			</td>
+			<td width="1%" height="31" bgcolor="#F3F9FC">&nbsp;</td>
+		</tr>
+	</table>
+	<table cellpadding="0" cellspacing="0" width="90%">
+		<tr>
+			<td class="row1" valign="top" bgcolor="#F1F1F1">
+			<div align="center">
+<table cellspacing="4" cellpadding="0" width="100%" align="center" border="0">
+                        <tr>
+                        <td valign="top" width="15">
+                            </td>
+                            <td valign="top" height="0">
+
+  <b> <span lang="ar-sa">„ﬂ«‰ «·»ÕÀ </span></b>
+
+  <select name="searchin" style="font-weight: 700" onchange="showop(this)">
+<option selected value="rafia_news">«·«Œ»«—</option>
+<option value="rafia_forum">«·„‰ œÏ</option>
+<option value="rafia_links">«·„Ê«ﬁ⁄</option>
+<option value="rafia_download">«·»—«„Ã</option>
+
+</select><b>
+
+<br>  <span lang="ar-sa"> ﬂ·„… «·»ÕÀ</span></b><input name=searchfor size=25 style="font-weight: 700"></td>
+                            <td valign="top" height="0" >
+
+  <span lang="ar-sa">&nbsp;<input type="radio" name="spell" value="1"><b>  Ã«Â·
+«· ‘ﬂÌ· ÊÂ„“… «·√·› Ê«·‘œ…</span>
+
+<br>
+  <span lang="ar-sa">&nbsp;<input type="radio" name="spell" value="0" checked><b> „ÿ«»ﬁ… «·ﬂ·„…</span>
+</td>
+                            </tr>
+                            </table>				
+			</div>
+			</td>
+		</tr>
+	</table>
+<br>
+	<table cellpadding="0" style="border-collapse: collapse;" width="89%">
+		<tr>
+			<td width="2%" class="forum_header2">
+</td>
+			<td width="96%" class="forum_header2">
+			<p align="center"><font class="fontabfflt2" size="4"> ‰ŸÌ„ «·»ÕÀ
+			</font></p>
+			</td>
+			<td width="1%" background="themes/$apt->themepath/table_02.jpg" height="31" bgcolor="#F3F9FC">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="row1" valign="top" colspan="3" bgcolor="#F1F1F1">
+			<div align="center">
+				<table cellspacing="4" cellpadding="0" width="100%" align="center" border="0">
+<tr id="rforumuser" style="display:inline"><td><b>«·»ÕÀ »«”„ «·⁄÷Ê («Œ Ì«—Ì)
+</td>
+<td>
+<input name=membername size=25 style="font-weight: 700">
+</td></tr>
+
+<tr><td><b>«·»ÕÀ ›Ì «·√ﬁ”«„ («Œ Ì«—Ì)
+</td><td>
+
+<div id="rnews" >
+$catnews
+</div>
+<div id="rforum" style="display:none">
+$catforum
+</div>
+
+<div id="rlinks" style="display:none">
+$catlinks
+</div>
+
+<div id="rdownload" style="display:none">
+$catdownload
+</div>
+</td></tr>
+
+                        <tr>
+                        <td valign="middle"  width="200">
+                        <b>«·»ÕÀ „‰..</b></td>
+<td>
+<select name="from_date" class="forminput">
+<option value="1">„‰– «·«„”</option>
+<option value="7">„‰– «”»Ê⁄</option>
+<option value="30" selected>„‰– ‘Â—</option>
+<option value="91">„‰– 3 «‘Â—</option>
+<option value="182">„‰– ” … √‘Â—</option>
+<option value="365">„‰– ”‰…</option>
+<option value="0">„‰– «·»œ«Ì…</option>
+</select>
+</td></tr>
+<tr>
+                            <td valign="middle">
+<b>⁄œœ «·„‘«—ﬂ«  ›Ì ’›Õ… «·‰ «∆Ã</b><br></td>
+  <td valign="top">
+<select name="search_max">
+<option value="10">10</option>
+<option value="20">20</option>
+<option value="30" selected>30</option>
+<option value="40">40</option>
+<option value="50">50</option> </select>
+</td></tr>
+<tr>
+<td valign="top">
+<b> — Ì» «·‰ «∆Ã »Õ”»</b><br></td>
+  <td valign="top">
+<select name="search_orderby">
+<option value="timestamp"> «—ÌŒ «·„‘«—ﬂ…</option>
+<option value="c_comment">⁄œœ «·—œÊœ</option>
+<option value="reader">⁄œœ «·ﬁ—«¡« </option>
+<option value="name">«”„ «·ﬂ« »</option>
+</select>
+</td>
+                            </tr>
+<tr><td><b>ÿ—Ìﬁ…  — Ì» «·‰ «∆Ã</td>
+<td>
+<input type="radio" name="search_order" value="DESC" checked>&nbsp;&nbsp;<b> ‰«“·Ì«
+<br><input type="radio" name="search_order" value="ASC">&nbsp;&nbsp;<b> ’«⁄œÌ«
+</tr></tr>
+                            </table>
+			</div>
+			</td>
+		</tr>
+	</table>
+	<p align="center">&nbsp;</p>
+	<p align="center">
+	<input type="submit" name="submit" value="»ÕÀ" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1"></p>
+	</center>
+</form>
+|--|news_table<=>2<=><table border="0" cellpadding="3" cellspacing="3" width="100%">
+	<tr>
+		<td valign="top" colspan="2">
+		<div class="news_title">
+			<img border="0" src="themes/$apt->themepath/news_icon.gif" width="12" height="12"> 
+			$title</div>
+		</td>
+	</tr>
+	<tr>
+		<td align="right" valign="top">
+		<div class="article_info">
+			<img border="0" src="themes/$apt->themepath/info.gif" width="13" height="18"> 
+			»Ê«”ÿ…: <a href="members.php?action=info&amp;userid=$userid">$username</a><br>
+			» «—ÌŒ : $date </div>
+		</td>
+		<td valign="top">
+		<p align="left">
+		<a href="javascript:rafiawin('popup.php?action=printnews&id=$id',500,600)">
+		<img border="0" src="themes/$apt->themepath/print_page.gif" width="70" height="24"></a><a href="mail.php?action=sendpage"><img border="0" src="themes/$apt->themepath/send_f.gif" width="70" height="24"></a><a href="pdf.php?id=$id"><img border="0" src="themes/$apt->themepath/pdf.gif" width="70" height="24"></a><br>
+		<a href="translate.php">
+		<img border="0" src="themes/$apt->themepath/t.gif" width="70" height="24"></a><a href="filemanager.php?action=save&id=$id"><img border="0" src="themes/$apt->themepath/save.gif" width="70" height="24"></a><a href="$PHP_SELF?action=addcomment&amp;id=$postid"><img border="0" src="themes/$apt->themepath/add_comment.gif" width="70" height="24"></a></p>
+		</td>
+		</td>
+	</tr>
+</table>
+<table border="0" cellpadding="3" cellspacing="3" width="100%">
+	<tr>
+		<td align="right" width="100%" class="normal">
+		<div class="article_pic">
+			$newsimage</div>
+		$news_head<br>
+		$post </td>
+	</tr>
+	<tr>
+		<td width="100%">
+		<div class="article_info">
+			<img border="0" src="themes/$apt->themepath/info.gif" width="13" height="18"> 
+			„—«  «·ﬁ—«¡…: $reader - «· ⁄·Ìﬁ« : $c_comment</div>
+		</td>
+	</tr>
+</table>
+<hr color="#C0C0C0" width="95%" size="1" style="border-style: dotted; border-width: 1px">
+<br>
+<b><center>$topic_nav</center></b>
+|--|register_policy<=>6<=><table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0" bgcolor="#EDF7FA">
+	<tr>
+		<td width="9" height="31">&nbsp;</td>
+		<td width="100%">
+		<p align="right"><font class="fontablt2" color="#800000" size="4"> ⁄·Ì„«  
+		Ê÷Ê«»ÿ «· ”ÃÌ·</font></p>
+		</td>
+	</tr>
+</table>
+$reg_rules
+|--|index_table<=>1<=><table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td height="28">
+		<div class="news_title">
+			<img border="0" src="themes/$apt->themepath/news_icon.gif" width="12" height="12">
+			<a href="$news_link">$title</a></div>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%">
+		<table border="0" style="border-collapse: collapse" width="100%" id="AutoNumber1" class="article_info">
+			<tr>
+				<td width="100%">
+				<div class="article_info">
+					<img border="0" src="themes/$apt->themepath/info.gif" width="13" height="18"> 
+					«·ﬂ« »: <a href="members.php?action=info&amp;userid=$userid">
+					$name</a> » «—ÌŒ: $date </div>
+				</td>
+				<td nowrap="" align="left" colspan="3"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%" style="padding-top: 5; padding-bottom: 5; text-align: justify">
+		$newsimage <font class="home_text">$news_head </font></td>
+	</tr>
+	<tr>
+		<td width="100%" class="info_bar2" style="padding-top: 5; padding-bottom: 5">
+		<p align="right"><a href="$news_link">
+		<img border="0" src="themes/$apt->themepath/readmore.gif" align="left"></a>
+		</p>
+		<div class="article_info">
+&nbsp; «·“Ê«—: $reader&nbsp;&nbsp;&nbsp; «· ⁄·Ìﬁ« : $numrows </div>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%">$pagenum </td>
+	</tr>
+</table>
+<hr style="border: 1px dotted #516A93" size="1">
+|--|announcement<=>1<=>
+|--|members_link<=>6<=><center>
+<table border="0" width="304">
+	<tr>
+		<td width="76" bgcolor="$bgcolor5">
+		<p align="center"><a href="members.php?action=cp">
+		<img border="0" src="themes/$apt->themepath/personal.jpg" width="76" height="56"></a></p>
+		</td>
+		<td width="76" bgcolor="$bgcolor5">
+		<p align="center"><a href="pm.php">
+		<img border="0" src="themes/$apt->themepath/pr_msg.jpg" width="76" height="56"></a></p>
+		</td>
+		<td width="76" bgcolor="$bgcolor5">
+		<p align="center"><a href="members.php?action=edit">
+		<img border="0" src="themes/$apt->themepath/setting.jpg" width="76" height="56"></a></p>
+		</td>
+		<td width="76" bgcolor="$bgcolor5">
+		<p align="center"><a href="members.php?action=changepass">
+		<img border="0" src="themes/$apt->themepath/change_pass.jpg" width="76" height="56"></a></p>
+		</td>
+	</tr>
+</table>
+</center>
+|--|upblock<=>7<=><!-- BLOCK START -->
+<table width="171" border="0" cellpadding="0" style="border-collapse: collapse">
+	<tr>
+		<td height="26" background="themes/$apt->themepath/menu_head.gif">
+		<p align="right"><font class="side_menu_head">&nbsp;&nbsp;&nbsp;&nbsp; {block_head}</font></p>
+		</td>
+	</tr>
+	</tr>
+	<tr>
+		<td style="padding-right: 0px" class="side_menu_center">
+		<p align="center">
+		<marquee style="FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Times New Roman; TAHOMA: 150%" scrollamount="2" scrolldelay="50" direction="up" width="165" height="161">{block_center}</marquee></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="padding-right: 0px" class="side_menu_center">&nbsp;</td>
+	</tr>
+	<tr>
+		<td style="padding-right: 0px" class="side_menu_center">
+		<img border="0" src="themes/$apt->themepath/menu_but.gif"></td>
+	</tr>
+</table>
+<table border="0" cellpadding="0" style="border-collapse: collapse" width="171">
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+<!-- BLOCK END -->
+|--|index_table_cat_title<=>1<=><table border="0" cellpadding="0" cellspacing="0" width="95%">
+	<tr>
+		<td width="8" height="28">
+		<img border="0" src="themes/$apt->themepath/cat_right.gif" width="8" height="28"></td>
+		<td background="themes/$apt->themepath/cat_bg.gif" width="100%">
+		<div class="news_cat_title">
+			<a title="$ctitle" href="news.php?action=list&amp;cat_id=$cid">$ctitle</a></div>
+		</td>
+		<td width="7" height="28">
+		<img border="0" src="themes/$apt->themepath/cat_left.gif" width="7" height="28"></td>
+	</tr>
+</table>
+|--|index_block<=>1<=><!--INC dir="block" file="index_download.php" -->
+<!--INC dir="block" file="links.php" -->
+|--|show_members_list<=>6<=><tr>
+<td bgcolor="$color"><font class=fontablt> $userid</font></td>
+      <td bgcolor="$color"><font class=fontablt>  
+<a href="members.php?action=info&userid=$userid">$username</a></font></td>
+      <td bgcolor="$color"><font class=fontablt>$allposts </font></td>
+<td bgcolor="$color"><font class=fontablt> $regdate</font></td>
+      <td bgcolor="$color" align="center"><font class=fontablt>
+    <a href='mail.php?action=sendtousers&userid=$userid' ><img border='0' src='themes/apt/email.gif' alt='„—«”·… »«·≈Ì„Ì·' width='16' height='16'></a>  
+    <a href='$homepage' target=_blank><img border='0' src='themes/apt/home.gif' alt='«·„Êﬁ⁄' width='16' height='16'> </a>
+  </font></td>
+    </tr>
+|--|turn_off_site<=>1<=><body bgcolor="#FFFFFF">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+	<center>
+	<table border="0" width="80%" bgcolor="#EBEBEB">
+		<tr>
+			<td width="100%" align="center"><font class="fontablt"><b>$turn_off_msg</font></b><br>
+			<br>
+			<table width="100%" border="0" cellpadding="4" cellspacing="0" id="table7">
+				<tr>
+					<td width="100%"><center>
+					<table border="0" width="350" id="table8" cellpadding="0" cellspacing="0">
+						<tr>
+							<td width="100%">
+							<form method="post" action="members.php?action=login">
+							</form>
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="#F2F2F2" align="center">
+							<span lang="ar-om"><b>œŒÊ· «·„‘—› «·⁄«„ ›ﬁÿ</b></span></td>
+						</tr>
+						<tr>
+							<td bgcolor="#F2F2F2" align="center">
+							<font face="tahoma" size="2">«·„” Œœ„ : </font>
+							<input type="textbox" name="username" size="13">
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="#F2F2F2" align="center">
+							<font face="tahoma" size="2">ﬂ·„… «·„—Ê— : </font>
+							<input type="password" name="userpass" size="13">
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="#F2F2F2" align="center">
+							<input type="submit" value="œŒÊ· «·„‘—› «·⁄«„"></td>
+						</tr>
+						</form>
+					</table>
+					<br>
+					</center></td>
+				</tr>
+			</table>
+			</center></div>
+
+			</body>
+
+		</html>
+		</td>
+	</tr>
+</table>
+</center></div>
+|--|download_list_pagenum<=>4<=><br>
+<table border="0" cellpadding="4" cellspacing="0" width="95%">
+	<tr>
+		<td width="50%" valign="bottom">$pagenum </td>
+		<td width="50%" align="right">
+		<a href="$PHP_SELF?action=add&amp;cat_id=$cat_id">
+		<img border="0" src="themes/$apt->themepath/$cat_img" align="left"></a></td>
+	</tr>
+</table>
+|--|news_add<=>2<=><script language="javascript">
+function checkForm(){
+	if (!document.rafia.title.value) {
+		alert('⁄›Ê« ... «‰  ·„  ﬁ„ »ﬂ «»… ⁄‰Ê«‰ «·Œ»—'); 
+		return false;
+	} 
+	if (document.rafia.post_head.value.length >= $counthead) {
+		alert("⁄›Ê« ... ⁄œœ Õ—Ê› —√” «·Œ»— «ﬂÀ— „‰ $counthead"); 
+		return false;
+	} 
+	if (!document.rafia.post.value) {
+		alert('⁄›Ê« ... «‰  ·„  ﬁ„ »ﬂ «»… ‰’ «·Œ»—'); 
+		return false;
+
+	}
+document.rafia.spam.value ='newsnotspam_$cap';
+}
+</script>
+<form onsubmit="return checkForm(this)" action="news.php?action=insert" method="post" name="rafia" enctype="multipart/form-data">
+	<table border="0" width="90%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td align="right" class="forum_header">≈÷«›… Œ»— </td>
+		</tr>
+		<tr>
+			<td>
+			<table border="0" width="100%" id="table13" cellpadding="2" class="fontablt">
+				$usernamef$useridf$selectform<tr>
+					<td align="right" nowrap="" class="info_bar">«·„Ê÷Ê⁄ :
+					<font color="#FF0000">*</font> </td>
+					<td align="right" width="100%">
+					<input type="text" name="title" value="" size="35" class="text_box">
+					</td>
+				</tr>
+				$txtcounth<tr>
+					<td align="right" nowrap="" class="info_bar" valign="top">—√” 
+					«·Œ»— : <br>«Œ Ì«—Ì</td>
+					<td align="right" width="100%">
+					<textarea name="post_head" rows="8" cols="60" onkeypress="return countIt();"></textarea></td>
+				</tr>
+				$editor$txtcount<tr>
+					<td align="right" nowrap="" class="info_bar" valign="top">‰’
+					«·Œ»— : <font color="#FF0000">*</font> <br>
+					ÿÊ· «·‰’ ÌÃ» «‰ ÌﬂÊ‰ <br>
+					√ﬁ· „‰ : $countpost Õ—›<br>
+					<center><a href="#" onmouseover="return proces()">≈Œ »«— «·ÿÊ·</a><br>
+					 »ﬁÏ ·ﬂ :
+					<input size="5" name="remain" type="text" value="$countpost">
+					<center></center></center></td>
+					<td align="right" width="100%">$form_code<br>
+					<textarea onmouseover="return proces()" onbeforeeditfocus="return proces()" onmouseout="return proces()" name="post" rows="15" cols="60" id="post" wrap="virtual"></textarea><input type="hidden" name="left" value="$countpost" size="7" class="text_box"></td>
+				</tr>
+				<tr>
+					<td align="right" nowrap="" class="info_bar">«· »·Ì€ »«·»—Ìœ 
+					«·≈·ﬂ —Ê‰Ì </td>
+					<td align="right" width="100%">
+					<input type="radio" name="H" value="1"> ‰⁄„
+					<input type="radio" name="H" value="0" checked> ·« </td>
+				</tr>
+				<tr>
+					<td align="right" nowrap="" class="info_bar">⁄—÷ «·„Ê÷Ê⁄ ›Ì 
+					’›Õ… «·»œ«Ì…ø </td>
+					<td align="right" width="100%">
+					<input type="radio" name="inindex" value="1" checked=""> ‰⁄„&nbsp;
+					<input type="radio" name="inindex" value="0"> ·«</td>
+				</tr>
+				<tr>
+					<td align="right" nowrap="" class="info_bar">⁄—÷ «·„Ê÷Ê⁄ ›Ì 
+					ﬁ«∆„… √Â„ «·«Œ»«—ø </td>
+					<td align="right" width="100%">
+					<input type="radio" name="inmenu" value="1"> ‰⁄„&nbsp;
+					<input type="radio" name="inmenu" value="0" checked=""> ·«</td>
+				</tr>
+				$main_n<tr>
+					<td align="right" nowrap="" class="info_bar">«” Œœ«„ «·’Ê—… 
+					«·«› —«÷Ì… ··ﬁ”„ø </td>
+					<td align="right" width="100%">
+					<input type="radio" name="catmig" value="1"> ‰⁄„&nbsp;
+					<input type="radio" name="catmig" value="0" checked=""> ·«</td>
+				</tr>
+
+
+				$fileupload $imgupload
+$chose_func
+			<input type="hidden" name="spam" value="spam">
+				<input type="hidden" name="action" value="insert">
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center">
+<input border="0" src="themes/$apt->themepath/newnews.gif" name="dosubmit" width="98" height="24" type="image">
+</td>
+					</tr>
+				</table> </form>
+|--|link_add<=>5<=><script language="javascript">
+function checkForm(){
+	if (!document.rafia.title.value) {
+		alert('⁄›Ê« ... «‰  ·„  ﬁ„ »ﬂ «»… «”„ «·„Êﬁ⁄'); 
+		return false;
+	} 
+	if (document.rafia.url.value=='http://') {
+		alert('⁄›Ê« ... «‰  ·„  ﬁ„ »ﬂ «»… ⁄‰Ê«‰ «·„Êﬁ⁄'); 
+		return false;
+	} 
+	if (!document.rafia.post.value) {
+		alert('⁄›Ê« ... «‰  ·„  ﬁ„ »ﬂ «»… Ê’› «·„Êﬁ⁄'); 
+		return false;
+	} 
+document.rafia.spam.value ='linknotspam_$cap';
+}
+</script>
+<form onsubmit="return checkForm(this)" action="link.php?action=insert" method="post" name="rafia" enctype="multipart/form-data">
+	<table border="0" width="90%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td align="right" class="forum_header">≈÷«›… „Êﬁ⁄ </td>
+		</tr>
+		<tr>
+			<td>
+			<table border="0" width="100%" id="table13" cellpadding="2" class="fontablt">
+				$cat<tr>
+					<td align="right" nowrap="" class="info_bar">«”„ «·„Êﬁ⁄ :
+					<font color="#FF0000">*</font> </td>
+					<td align="right" width="100%">
+					<input type="text" name="title" value="" size="35" class="text_box">
+					</td>
+				</tr>
+				<tr>
+					<td align="right" nowrap="" class="info_bar">⁄‰Ê«‰ «·„Êﬁ⁄ :
+					<font color="#FF0000">*</font> </td>
+					<td align="right" width="100%">
+					<input type="text" name="url" value="http://" size="50" class="text_box">
+					</td>
+				</tr>
+				$yrname $yrmail<script language="JavaScript">
+        function proces()
+        {
+            value = document.rafia.post.value;
+            len = $countpost - value.length;
+            if (len < 0 )
+            {
+                document.rafia.post.value = document.rafia.post.value.substring(0,$countpost);
+                document.rafia.left.value = 0;
+            }
+            else
+            {
+                document.rafia.left.value = len
+            }
+            document.rafia.remain.value = len;
+            //alert(' »ﬁÏ ·ﬂ : ' + len  );
+        }
+        </script>
+				<tr>
+					<td align="right" nowrap="" class="info_bar" valign="top">Ê’› 
+					ﬁ’Ì— : <font color="#FF0000">*</font> <br>
+					ÿÊ· «·‰’ ÌÃ» «‰ ÌﬂÊ‰ <br>
+					√ﬁ· „‰ : $countpost Õ—›<br>
+					<center><a href="#" onmouseover="return proces()">≈Œ »«— «·ÿÊ·</a><br>
+					 »ﬁÏ ·ﬂ :
+					<input size="5" name="remain" type="text" value="$countpost">
+					<center></center></center></td>
+					<td align="right" width="100%"><br>
+					<textarea onmouseover="return proces()" onbeforeeditfocus="return proces()" onmouseout="return proces()" name="post" rows="8" cols="60" id="post" wrap="virtual"></textarea><input type="hidden" name="left" value="$countpost" size="7" class="text_box">
+					<input type="hidden" name="action" value="insert"></td>
+				</tr>
+				<input type="hidden" name="spam" value="spam">
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td align="right" align="center">
+			<input border="0" src="themes/$apt->themepath/site.gif" name="I1" type="image"></td>
+		</tr>
+	</table>
+</form>
+|--|middle_menu<=>7<=><!-- BLOCK START -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="9" height="24" background="themes/$apt->themepath/cat_bg.jpg">&nbsp;</td>
+		<td background="themes/$apt->themepath/cat_bg.jpg" width="100%">
+		<p align="center"><font class="side_menu_head">{block_head}</font> </p>
+		</td>
+		<td width="9" height="24" background="themes/$apt->themepath/cat_bg.jpg">&nbsp;</td>
+	</tr>
+	</tr>
+	<tr>
+		<td height="120" valign="top" colspan="3" bgcolor="#F1F1F1" style="padding-right: 5px" class="side_menu_center">
+		{block_center} <br>
+		</td>
+	</tr>
+</table>
+<br>
+<!-- BLOCK END -->
+|--|index_main_table<=>1<=><table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td height="28">
+		<div class="news_title">
+			<img border="0" src="themes/$apt->themepath/news_icon.gif" width="12" height="12">
+			<a href="$news_link">$title</a></div>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%">
+		<table border="0" style="border-collapse: collapse" width="100%" id="AutoNumber1" class="article_info">
+			<tr>
+				<td width="100%">
+				<div class="article_info">
+					<img border="0" src="themes/$apt->themepath/info.gif" width="13" height="18"> 
+					«·ﬂ« »: <a href="members.php?action=info&amp;userid=$userid">
+					$name</a> » «—ÌŒ: $date </div>
+				</td>
+				<td nowrap="" align="left" colspan="3"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%" style="padding-top: 5; padding-bottom: 5; text-align: justify">
+		$newsimage <font class="home_text">$news_head </font></td>
+	</tr>
+	<tr>
+		<td width="100%" class="info_bar2" style="padding-top: 5; padding-bottom: 5">
+		<p align="right"><a href="$news_link">
+		<img border="0" src="themes/$apt->themepath/readmore.gif" align="left"></a>
+		</p>
+		<div class="article_info">
+&nbsp; «·“Ê«—: $reader&nbsp;&nbsp;&nbsp; «· ⁄·Ìﬁ« : $numrows </div>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%">$pagenum </td>
+	</tr>
+</table>
+<hr style="border: 1px dotted #516A93" size="1">
+|--|guestbook_add<=>1<=><script language="javascript">
+function checkForm(){
+	if (!document.rafia.name.value) {
+		alert('⁄›Ê« ... «‰  ·„  ﬁ„ »ﬂ «»… «·«”„'); 
+		return false;
+	} 
+	if (!document.rafia.email.value) {
+		alert('⁄›Ê« ... «‰  ·„  ﬁ„ »ﬂ «»… «·«Ì„Ì·'); 
+		return false;
+	} 
+	if (!document.rafia.post.value) {
+		alert('⁄›Ê« ... «‰  ·„  ﬁ„ »ﬂ «»… ‰’ «· ⁄·Ìﬁ'); 
+		return false;
+	} 
+document.rafia.spam.value ='guestnotspam_$cap';
+
+}
+</script>
+<form onsubmit="return checkForm(this)" action="guestbook.php?action=insert" method="post" name="rafia" enctype="multipart/form-data">
+	<table border="0" width="90%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td align="right" class="forum_header">≈÷«›…  ÊﬁÌ⁄ </td>
+		</tr>
+		<tr>
+			<td>
+			<table border="0" width="100%" id="table13" cellpadding="2" class="fontablt">
+				<tr>
+					<td align="right" nowrap="" class="info_bar">«·«”„ :
+					<font color="#FF0000">*</font> </td>
+					<td align="right" width="100%">
+					<input type="text" name="name" value="" size="35" class="text_box">
+					</td>
+				</tr>
+				<tr>
+					<td align="right" nowrap="" class="info_bar">«·»—Ìœ «·≈·ﬂ —Ê‰Ì 
+					: <font color="#FF0000">*</font> </td>
+					<td align="right" width="100%">
+					<input type="text" name="email" value="" size="30" class="text_box">
+					</td>
+				</tr>
+				<tr>
+					<td align="right" nowrap="" class="info_bar">«·„Êﬁ⁄ : </td>
+					<td align="right" width="100%">
+					<input type="text" name="url" value="http://" size="50" class="text_box">
+					</td>
+				</tr>
+				$txtcount_java<tr>
+					<td align="right" nowrap="" class="info_bar" valign="top">«· ÊﬁÌ⁄ 
+					: <font color="#FF0000">*</font><a neme="count"> $use_smiles
+					<br>
+					ÿÊ· «·‰’ ÌÃ» «‰ ÌﬂÊ‰ <br>
+					√ﬁ· „‰ : $txtcount_count Õ—›<br>
+					<center></a><a href="#count" onmouseover="return proces()">≈Œ »«— 
+					«·ÿÊ·</a><br>
+					 »ﬁÏ ·ﬂ :
+					<input size="5" name="remain" type="text" value="$txtcount_count">
+					<center></center></center></td>
+					<td align="right" width="100%"><br>
+					<textarea onmouseover="return proces()" onbeforeeditfocus="return proces()" onmouseout="return proces()" name="post" rows="8" cols="60" id="post" wrap="virtual"></textarea><input type="hidden" name="left" value="$txtcount_count" size="7" class="text_box">
+					<input type="hidden" name="spam" value="1"></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td align="right" align="center">
+			<input border="0" src="themes/$apt->themepath/sign.gif" name="I1" width="98" height="24" type="image"></td>
+		</tr>
+	</table>
+</form>
